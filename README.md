@@ -9,7 +9,11 @@ GLFTPD is a powerful FTP server software designed for Unix-like operating system
 Contents
 
 Bash Scripts: Automated tasks, system management, and utility scripts for GLFTPD.
+
 Python Scripts: Modern, versatile scripts to perform various tasks and enhancements.
+
 TCL Addons: Extensions and modifications to enhance the capabilities of GLFTPD.
+
 Modules: Custom modules that add new features or improve existing ones.
+
 Rewrites: Updated or reimagined versions of existing scripts or functionalities.
