@@ -1,5 +1,8 @@
-GLFTPD Scripts
-Welcome to the GLFTPD Scripts repository! I'm Petabyte, and this repository is dedicated to a collection of GLFTPD-related scripts, addons, modules, and rewrites that I’ve developed.
+GLFTPD Scripts by Petabyte
+
+Welcome to my GLFTPD Scripts repository!
+
+This repository is dedicated to a collection of GLFTPD-related scripts, addons, modules, and rewrites that I’ve developed.
 
 Overview
 GLFTPD is a powerful FTP server software designed for Unix-like operating systems. This repository contains various scripts and tools to extend and enhance the functionality of GLFTPD. Whether you’re looking for bash scripts, Python scripts, TCL addons, or complete module rewrites, you’ll find a range of utilities here to optimize and personalize your GLFTPD experience.
