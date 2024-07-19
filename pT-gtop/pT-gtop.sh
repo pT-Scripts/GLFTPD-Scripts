@@ -20,7 +20,7 @@
 #   excluded from the statistics.
 # 
 # Usage
-# 1. Save the script to a file named `pT-gtop.sh`.
+# 1. Save the script to /glftpd/bin `pT-gtop.sh`.
 # 2. Make the script executable: `chmod +x pT-gtop.sh`.
 # 3. Run the script: `./pT-gtop.sh`.
 # 
