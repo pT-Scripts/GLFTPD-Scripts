@@ -47,3 +47,5 @@ Full list of current released scripts and modules:
 - https://github.com/pT-Scripts/GLFTPD-Scripts
 
 More will be added soon
+
+Get help @ Linknet iRC - #pT-scripts
