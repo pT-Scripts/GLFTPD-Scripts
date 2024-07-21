@@ -8,8 +8,13 @@ GLFTPD is a powerful FTP server software designed for Unix-like operating system
 
 Install of glftpd scripts
 
-- I make the engine/main script in bash .sh file and simple use the .tcl to execute the .sh script and announce to irc. (main logic is always in the .sh file)
-Good tip is if it works with ./pT-script.sh in terminal it works on IRCE/eggdrop
+- I make the engine/main script in bash .sh file and simple use the .tcl to execute the .sh script and announce to irc.
+
+  (main logic is always in the .sh file)
+
+  
+Good tip is if it works with ./pT-script.sh in terminal it works on IRC/eggdrop
+
 - 
 Contents
 
