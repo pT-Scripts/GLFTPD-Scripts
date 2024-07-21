@@ -17,3 +17,8 @@ TCL Addons: Extensions and modifications to enhance the capabilities of GLFTPD.
 Modules: Custom modules that add new features or improve existing ones.
 
 Rewrites: Updated or reimagined versions of existing scripts or functionalities.
+
+
+Full list of current released scripts and modules:
+
+**pT-PreBot** - pT-PreBot is an IRC bot designed for managing pre-release data and integrating with MySQL databases, specifically tailored for eggdrop bots. https://github.com/pT-Scripts/pT-PreBot
