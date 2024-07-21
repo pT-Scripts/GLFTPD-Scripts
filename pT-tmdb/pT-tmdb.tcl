@@ -20,7 +20,7 @@
 # Adding More Features:                                         
 #   - Modify this script to handle additional commands or        
 #     functionalities related to TMDB queries.                   
-#   - Extend TMDB.sh or create new scripts for different queries.
+#   - Extend pT-tmdb.sh or create new scripts for different queries.
 #                                                               
 # Changelog:                                                    
 #   Version 1.0                                                 
