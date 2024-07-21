@@ -6,6 +6,11 @@ This repository is dedicated to a collection of GLFTPD-related scripts, addons, 
 
 GLFTPD is a powerful FTP server software designed for Unix-like operating systems. This repository contains various scripts and tools to extend and enhance the functionality of GLFTPD. Whether you’re looking for bash scripts, Python scripts, TCL addons, or complete module rewrites, you’ll find a range of utilities here to optimize and personalize your GLFTPD experience.
 
+Install of glftpd scripts
+
+- I make the engine/main script in bash .sh file and simple use the .tcl to execute the .sh script and announce to irc. (main logic is always in the .sh file)
+Good tip is if it works with ./pT-script.sh in terminal it works on IRCE/eggdrop
+- 
 Contents
 
 Bash Scripts: Automated tasks, system management, and utility scripts for GLFTPD.
