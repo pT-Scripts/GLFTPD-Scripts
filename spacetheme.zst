@@ -1,0 +1,1121 @@
+############################################################
+#                                                          #
+#  pzs-ng theme - Space Theme v.1.0 By Petabyte            #
+#                                                          #
+############################################################
+#                                                          #
+
+COLOR1 = "14"  # base color: dark grey
+COLOR2 = "15"  # section color: light grey
+COLOR3 = "04"  # highlight color: red blood
+COLOR4 = "03"  # green
+COLOR5 = "07"  # orange
+COLOR6 = "06"  # dark purple
+COLOR7 = "09"  # light green
+COLOR8 = "12"  # blue
+COLOR9 = "08"  # yellow
+COLOR10 = "11" # light blue
+COLOR11 = "10" # dark cyan
+COLOR12 = "13" # light purple
+
+# 0DAY section
+COLOR_0DAY_1 = "14"  # Green
+COLOR_0DAY_2 = "03"  # Light Grey
+COLOR_0DAY_3 = "04"  # Red Blood
+COLOR_0DAY_4 = "03"  # Green
+COLOR_0DAY_5 = "07"  # Orange
+COLOR_0DAY_6 = "06"  # Dark Purple
+COLOR_0DAY_7 = "09"  # Light Green
+COLOR_0DAY_8 = "12"  # Blue
+COLOR_0DAY_9 = "08"  # Yellow
+COLOR_0DAY_10 = "11" # Light Blue
+COLOR_0DAY_11 = "10" # Dark Cyan
+COLOR_0DAY_12 = "13" # Light Purple
+
+# EBOOKS section
+COLOR_EBOOKS_1 = "14"  # Green
+COLOR_EBOOKS_2 = "03"  # Light Grey
+COLOR_EBOOKS_3 = "04"  # Red Blood
+COLOR_EBOOKS_4 = "03"  # Green
+COLOR_EBOOKS_5 = "07"  # Orange
+COLOR_EBOOKS_6 = "09"  # Dark Purple
+COLOR_EBOOKS_7 = "09"  # Light Green
+COLOR_EBOOKS_8 = "12"  # Blue
+COLOR_EBOOKS_9 = "08"  # Yellow
+COLOR_EBOOKS_10 = "11" # Light Blue
+COLOR_EBOOKS_11 = "10" # Dark Cyan
+COLOR_EBOOKS_12 = "13" # Light Purple
+
+# ARCHIVE section
+COLOR_ARCHIVE_1 = "14"  # Green
+COLOR_ARCHIVE_2 = "03"  # Light Grey
+COLOR_ARCHIVE_3 = "04"  # Red Blood
+COLOR_ARCHIVE_4 = "03"  # Green
+COLOR_ARCHIVE_5 = "07"  # Orange
+COLOR_ARCHIVE_6 = "09"  # Dark Purple
+COLOR_ARCHIVE_7 = "09"  # Light Green
+COLOR_ARCHIVE_8 = "12"  # Blue
+COLOR_ARCHIVE_9 = "08"  # Yellow
+COLOR_ARCHIVE_10 = "11" # Light Blue
+COLOR_ARCHIVE_11 = "10" # Dark Cyan
+COLOR_ARCHIVE_12 = "13" # Light Purple
+
+# MP3 section
+COLOR_MP3_1 = "14"  # Green
+COLOR_MP3_2 = "08"  # Light Grey
+COLOR_MP3_3 = "04"  # Red Blood
+COLOR_MP3_4 = "03"  # Green
+COLOR_MP3_5 = "07"  # Orange
+COLOR_MP3_6 = "09"  # Dark Purple
+COLOR_MP3_7 = "09"  # Light Green
+COLOR_MP3_8 = "12"  # Blue
+COLOR_MP3_9 = "08"  # Yellow
+COLOR_MP3_10 = "11" # Light Blue
+COLOR_MP3_11 = "10" # Dark Cyan
+COLOR_MP3_12 = "13" # Light Purple
+
+
+# FLAC section
+COLOR_FLAC_1 = "14"  # Green
+COLOR_FLAC_2 = "08"  # Light Grey
+COLOR_FLAC_3 = "04"  # Red Blood
+COLOR_FLAC_4 = "03"  # Green
+COLOR_FLAC_5 = "07"  # Orange
+COLOR_FLAC_6 = "09"  # Dark Purple
+COLOR_FLAC_7 = "09"  # Light Green
+COLOR_FLAC_8 = "12"  # Blue
+COLOR_FLAC_9 = "08"  # Yellow
+COLOR_FLAC_10 = "11" # Light Blue
+COLOR_FLAC_11 = "10" # Dark Cyan
+COLOR_FLAC_12 = "13" # Light Purple
+
+# MVID section
+COLOR_MVID_1 = "14"  # Green
+COLOR_MVID_2 = "15"  # Light Grey
+COLOR_MVID_3 = "04"  # Red Blood
+COLOR_MVID_4 = "03"  # Green
+COLOR_MVID_5 = "07"  # Orange
+COLOR_MVID_6 = "09"  # Dark Purple
+COLOR_MVID_7 = "09"  # Light Green
+COLOR_MVID_8 = "12"  # Blue
+COLOR_MVID_9 = "08"  # Yellow
+COLOR_MVID_10 = "11" # Light Blue
+COLOR_MVID_11 = "10" # Dark Cyan
+COLOR_MVID_12 = "13" # Light Purple
+
+# MBLURAY section
+COLOR_MBLURAY_1 = "14"  # Green
+COLOR_MBLURAY_2 = "15"  # Light Grey
+COLOR_MBLURAY_3 = "04"  # Red Blood
+COLOR_MBLURAY_4 = "03"  # Green
+COLOR_MBLURAY_5 = "07"  # Orange
+COLOR_MBLURAY_6 = "09"  # Dark Purple
+COLOR_MBLURAY_7 = "09"  # Light Green
+COLOR_MBLURAY_8 = "12"  # Blue
+COLOR_MBLURAY_9 = "08"  # Yellow
+COLOR_MBLURAY_10 = "11" # Light Blue
+COLOR_MBLURAY_11 = "10" # Dark Cyan
+COLOR_MBLURAY_12 = "13" # Light Purple
+
+# MDVDR section
+COLOR_MDVDR_1 = "14"  # Green
+COLOR_MDVDR_2 = "15"  # Light Grey
+COLOR_MDVDR_3 = "04"  # Red Blood
+COLOR_MDVDR_4 = "03"  # Green
+COLOR_MDVDR_5 = "07"  # Orange
+COLOR_MDVDR_6 = "09"  # Dark Purple
+COLOR_MDVDR_7 = "09"  # Light Green
+COLOR_MDVDR_8 = "12"  # Blue
+COLOR_MDVDR_9 = "08"  # Yellow
+COLOR_MDVDR_10 = "11" # Light Blue
+COLOR_MDVDR_11 = "10" # Dark Cyan
+COLOR_MDVDR_12 = "13" # Light Purple
+
+# APPS section
+COLOR_APPS_1 = "14"  # Green
+COLOR_APPS_2 = "03"  # Light Grey
+COLOR_APPS_3 = "04"  # Red Blood
+COLOR_APPS_4 = "03"  # Green
+COLOR_APPS_5 = "07"  # Orange
+COLOR_APPS_6 = "09"  # Dark Purple
+COLOR_APPS_7 = "09"  # Light Green
+COLOR_APPS_8 = "12"  # Blue
+COLOR_APPS_9 = "08"  # Yellow
+COLOR_APPS_10 = "11" # Light Blue
+COLOR_APPS_11 = "10" # Dark Cyan
+COLOR_APPS_12 = "13" # Light Purple
+
+# ABOOKS section
+COLOR_ABOOKS_1 = "14"  # Green
+COLOR_ABOOKS_2 = "03"  # Light Grey
+COLOR_ABOOKS_3 = "04"  # Red Blood
+COLOR_ABOOKS_4 = "03"  # Green
+COLOR_ABOOKS_5 = "07"  # Orange
+COLOR_ABOOKS_6 = "09"  # Dark Purple
+COLOR_ABOOKS_7 = "09"  # Light Green
+COLOR_ABOOKS_8 = "12"  # Blue
+COLOR_ABOOKS_9 = "08"  # Yellow
+COLOR_ABOOKS_10 = "11" # Light Blue
+COLOR_ABOOKS_11 = "10" # Dark Cyan
+COLOR_ABOOKS_12 = "13" # Light Purple
+
+# GAMES-PC section
+COLOR_GAMES-PC_1 = "14"  # Green
+COLOR_GAMES-PC_2 = "11"  # Light Grey
+COLOR_GAMES-PC_3 = "04"  # Red Blood
+COLOR_GAMES-PC_4 = "03"  # Green
+COLOR_GAMES-PC_5 = "07"  # Orange
+COLOR_GAMES-PC_6 = "09"  # Dark Purple
+COLOR_GAMES-PC_7 = "09"  # Light Green
+COLOR_GAMES-PC_8 = "12"  # Blue
+COLOR_GAMES-PC_9 = "08"  # Yellow
+COLOR_GAMES-PC_10 = "11" # Light Blue
+COLOR_GAMES-PC_11 = "10" # Dark Cyan
+COLOR_GAMES-PC_12 = "13" # Light Purple
+
+# GAMES-NSW section
+COLOR_GAMES-NSW_1 = "14"  # Green
+COLOR_GAMES-NSW_2 = "11"  # Light Grey
+COLOR_GAMES-NSW_3 = "04"  # Red Blood
+COLOR_GAMES-NSW_4 = "03"  # Green
+COLOR_GAMES-NSW_5 = "07"  # Orange
+COLOR_GAMES-NSW_6 = "09"  # Dark Purple
+COLOR_GAMES-NSW_7 = "09"  # Light Green
+COLOR_GAMES-NSW_8 = "12"  # Blue
+COLOR_GAMES-NSW_9 = "08"  # Yellow
+COLOR_GAMES-NSW_10 = "11" # Light Blue
+COLOR_GAMES-NSW_11 = "10" # Dark Cyan
+COLOR_GAMES-NSW_12 = "13" # Light Purple
+
+# PS4 section
+COLOR_PS4_1 = "14"  # Green
+COLOR_PS4_2 = "11"  # Light Grey
+COLOR_PS4_3 = "04"  # Red Blood
+COLOR_PS4_4 = "03"  # Green
+COLOR_PS4_5 = "07"  # Orange
+COLOR_PS4_6 = "09"  # Dark Purple
+COLOR_PS4_7 = "09"  # Light Green
+COLOR_PS4_8 = "12"  # Blue
+COLOR_PS4_9 = "08"  # Yellow
+COLOR_PS4_10 = "11" # Light Blue
+COLOR_PS4_11 = "10" # Dark Cyan
+COLOR_PS4_12 = "13" # Light Purple
+
+# PS5 section
+COLOR_PS5_1 = "14"  # Green
+COLOR_PS5_2 = "11"  # Light Grey
+COLOR_PS5_3 = "04"  # Red Blood
+COLOR_PS5_4 = "03"  # Green
+COLOR_PS5_5 = "07"  # Orange
+COLOR_PS5_6 = "09"  # Dark Purple
+COLOR_PS5_7 = "09"  # Light Green
+COLOR_PS5_8 = "12"  # Blue
+COLOR_PS5_9 = "08"  # Yellow
+COLOR_PS5_10 = "11" # Light Blue
+COLOR_PS5_11 = "10" # Dark Cyan
+COLOR_PS5_12 = "13" # Light Purple
+
+
+# TV-DK section
+COLOR_TV-DK_1 = "14"  # Green
+COLOR_TV-DK_2 = "07"  # Light Grey
+COLOR_TV-DK_3 = "04"  # Red Blood
+COLOR_TV-DK_4 = "03"  # Green
+COLOR_TV-DK_5 = "07"  # Orange
+COLOR_TV-DK_6 = "09"  # Dark Purple
+COLOR_TV-DK_7 = "09"  # Light Green
+COLOR_TV-DK_8 = "12"  # Blue
+COLOR_TV-DK_9 = "08"  # Yellow
+COLOR_TV-DK_10 = "11" # Light Blue
+COLOR_TV-DK_11 = "10" # Dark Cyan
+COLOR_TV-DK_12 = "13" # Light Purple
+
+
+# TV-NO section
+COLOR_TV-NO_1 = "14"  # Green
+COLOR_TV-NO_2 = "07"  # Light Grey
+COLOR_TV-NO_3 = "04"  # Red Blood
+COLOR_TV-NO_4 = "03"  # Green
+COLOR_TV-NO_5 = "07"  # Orange
+COLOR_TV-NO_6 = "09"  # Dark Purple
+COLOR_TV-NO_7 = "09"  # Light Green
+COLOR_TV-NO_8 = "12"  # Blue
+COLOR_TV-NO_9 = "08"  # Yellow
+COLOR_TV-NO_10 = "11" # Light Blue
+COLOR_TV-NO_11 = "10" # Dark Cyan
+COLOR_TV-NO_12 = "13" # Light Purple
+
+# TV-PL section
+COLOR_TV-PL_1 = "14"  # Green
+COLOR_TV-PL_2 = "07"  # Light Grey
+COLOR_TV-PL_3 = "04"  # Red Blood
+COLOR_TV-PL_4 = "03"  # Green
+COLOR_TV-PL_5 = "07"  # Orange
+COLOR_TV-PL_6 = "09"  # Dark Purple
+COLOR_TV-PL_7 = "09"  # Light Green
+COLOR_TV-PL_8 = "12"  # Blue
+COLOR_TV-PL_9 = "08"  # Yellow
+COLOR_TV-PL_10 = "11" # Light Blue
+COLOR_TV-PL_11 = "10" # Dark Cyan
+COLOR_TV-PL_12 = "13" # Light Purple
+
+# TV-CZ section
+COLOR_TV-CZ_1 = "14"  # Green
+COLOR_TV-CZ_2 = "07"  # Light Grey
+COLOR_TV-CZ_3 = "04"  # Red Blood
+COLOR_TV-CZ_4 = "03"  # Green
+COLOR_TV-CZ_5 = "07"  # Orange
+COLOR_TV-CZ_6 = "09"  # Dark Purple
+COLOR_TV-CZ_7 = "09"  # Light Green
+COLOR_TV-CZ_8 = "12"  # Blue
+COLOR_TV-CZ_9 = "08"  # Yellow
+COLOR_TV-CZ_10 = "11" # Light Blue
+COLOR_TV-CZ_11 = "10" # Dark Cyan
+COLOR_TV-NO_12 = "13" # Light Purple
+
+# TV-HU section
+COLOR_TV-HU_1 = "14"  # Green
+COLOR_TV-HU_2 = "07"  # Light Grey
+COLOR_TV-HU_3 = "04"  # Red Blood
+COLOR_TV-HU_4 = "03"  # Green
+COLOR_TV-HU_5 = "07"  # Orange
+COLOR_TV-HU_6 = "09"  # Dark Purple
+COLOR_TV-HU_7 = "09"  # Light Green
+COLOR_TV-HU_8 = "12"  # Blue
+COLOR_TV-HU_9 = "08"  # Yellow
+COLOR_TV-HU_10 = "11" # Light Blue
+COLOR_TV-HU_11 = "10" # Dark Cyan
+COLOR_TV-HU_12 = "13" # Light Purple
+
+# TV-PT section
+COLOR_TV-PT_1 = "14"  # Green
+COLOR_TV-PT_2 = "07"  # Light Grey
+COLOR_TV-PT_3 = "04"  # Red Blood
+COLOR_TV-PT_4 = "03"  # Green
+COLOR_TV-PT_5 = "07"  # Orange
+COLOR_TV-PT_6 = "09"  # Dark Purple
+COLOR_TV-PT_7 = "09"  # Light Green
+COLOR_TV-PT_8 = "12"  # Blue
+COLOR_TV-PT_9 = "08"  # Yellow
+COLOR_TV-PT_10 = "11" # Light Blue
+COLOR_TV-PT_11 = "10" # Dark Cyan
+COLOR_TV-PT_12 = "13" # Light Purple
+
+# TV-SWE section
+COLOR_TV-SWE_1 = "14"  # Green
+COLOR_TV-SWE_2 = "07"  # Light Grey
+COLOR_TV-SWE_3 = "04"  # Red Blood
+COLOR_TV-SWE_4 = "03"  # Green
+COLOR_TV-SWE_5 = "07"  # Orange
+COLOR_TV-SWE_6 = "09"  # Dark Purple
+COLOR_TV-SWE_7 = "09"  # Light Green
+COLOR_TV-SWE_8 = "12"  # Blue
+COLOR_TV-SWE_9 = "08"  # Yellow
+COLOR_TV-SWE_10 = "11" # Light Blue
+COLOR_TV-SWE_11 = "10" # Dark Cyan
+COLOR_TV-SWE_12 = "13" # Light Purple
+
+# TV-FIN section
+COLOR_TV-FIN_1 = "14"  # Green
+COLOR_TV-FIN_2 = "07"  # Light Grey
+COLOR_TV-FIN_3 = "04"  # Red Blood
+COLOR_TV-FIN_4 = "03"  # Green
+COLOR_TV-FIN_5 = "07"  # Orange
+COLOR_TV-FIN_6 = "09"  # Dark Purple
+COLOR_TV-FIN_7 = "09"  # Light Green
+COLOR_TV-FIN_8 = "12"  # Blue
+COLOR_TV-FIN_9 = "08"  # Yellow
+COLOR_TV-FIN_10 = "11" # Light Blue
+COLOR_TV-FIN_11 = "10" # Dark Cyan
+COLOR_TV-FIN_12 = "13" # Light Purple
+
+# TV-DE section
+COLOR_TV-DE_1 = "14"  # Green
+COLOR_TV-DE_2 = "07"  # Light Grey
+COLOR_TV-DE_3 = "04"  # Red Blood
+COLOR_TV-DE_4 = "03"  # Green
+COLOR_TV-DE_5 = "07"  # Orange
+COLOR_TV-DE_6 = "09"  # Dark Purple
+COLOR_TV-DE_7 = "09"  # Light Green
+COLOR_TV-DE_8 = "12"  # Blue
+COLOR_TV-DE_9 = "08"  # Yellow
+COLOR_TV-DE_10 = "11" # Light Blue
+COLOR_TV-DE_11 = "10" # Dark Cyan
+COLOR_TV-DE_12 = "13" # Light Purple
+
+# TV-FR section
+COLOR_TV-FR_1 = "14"  # Green
+COLOR_TV-FR_2 = "07"  # Light Grey
+COLOR_TV-FR_3 = "04"  # Red Blood
+COLOR_TV-FR_4 = "03"  # Green
+COLOR_TV-FR_5 = "07"  # Orange
+COLOR_TV-FR_6 = "09"  # Dark Purple
+COLOR_TV-FR_7 = "09"  # Light Green
+COLOR_TV-FR_8 = "12"  # Blue
+COLOR_TV-FR_9 = "08"  # Yellow
+COLOR_TV-FR_10 = "11" # Light Blue
+COLOR_TV-FR_11 = "10" # Dark Cyan
+COLOR_TV-FR_12 = "13" # Light Purple
+
+# TV-HDRIP section
+COLOR_TV-HDRIP_1 = "14"  # Green
+COLOR_TV-HDRIP_2 = "07"  # Light Grey
+COLOR_TV-HDRIP_3 = "04"  # Red Blood
+COLOR_TV-HDRIP_4 = "03"  # Green
+COLOR_TV-HDRIP_5 = "07"  # Orange
+COLOR_TV-HDRIP_6 = "09"  # Dark Purple
+COLOR_TV-HDRIP_7 = "09"  # Light Green
+COLOR_TV-HDRIP_8 = "12"  # Blue
+COLOR_TV-HDRIP_9 = "08"  # Yellow
+COLOR_TV-HDRIP_10 = "11" # Light Blue
+COLOR_TV-HDRIP_11 = "10" # Dark Cyan
+COLOR_TV-HDRIP_12 = "13" # Light Purple
+
+# TV-IT section
+COLOR_TV-IT_1 = "14"  # Green
+COLOR_TV-IT_2 = "07"  # Light Grey
+COLOR_TV-IT_3 = "04"  # Red Blood
+COLOR_TV-IT_4 = "03"  # Green
+COLOR_TV-IT_5 = "07"  # Orange
+COLOR_TV-IT_6 = "09"  # Dark Purple
+COLOR_TV-IT_7 = "09"  # Light Green
+COLOR_TV-IT_8 = "12"  # Blue
+COLOR_TV-IT_9 = "08"  # Yellow
+COLOR_TV-IT_10 = "11" # Light Blue
+COLOR_TV-IT_11 = "10" # Dark Cyan
+COLOR_TV-IT_12 = "13" # Light Purple
+
+# TV-NL section
+COLOR_TV-NL_1 = "14"  # Green
+COLOR_TV-NL_2 = "07"  # Light Grey
+COLOR_TV-NL_3 = "04"  # Red Blood
+COLOR_TV-NL_4 = "03"  # Green
+COLOR_TV-NL_5 = "07"  # Orange
+COLOR_TV-NL_6 = "09"  # Dark Purple
+COLOR_TV-NL_7 = "09"  # Light Green
+COLOR_TV-NL_8 = "12"  # Blue
+COLOR_TV-NL_9 = "08"  # Yellow
+COLOR_TV-NL_10 = "11" # Light Blue
+COLOR_TV-NL_11 = "10" # Dark Cyan
+COLOR_TV-NL_12 = "13" # Light Purple
+
+# TV-SP section
+COLOR_TV-SP_1 = "14"  # Green
+COLOR_TV-SP_2 = "07"  # Light Grey
+COLOR_TV-SP_3 = "04"  # Red Blood
+COLOR_TV-SP_4 = "03"  # Green
+COLOR_TV-SP_5 = "07"  # Orange
+COLOR_TV-SP_6 = "09"  # Dark Purple
+COLOR_TV-SP_7 = "09"  # Light Green
+COLOR_TV-SP_8 = "12"  # Blue
+COLOR_TV-SP_9 = "08"  # Yellow
+COLOR_TV-SP_10 = "11" # Light Blue
+COLOR_TV-SP_11 = "10" # Dark Cyan
+COLOR_TV-SP_12 = "13" # Light Purple
+
+
+# TV-720P section
+COLOR_TV-720P_1 = "14"  # Green
+COLOR_TV-720P_2 = "07"  # Light Grey
+COLOR_TV-720P_3 = "04"  # Red Blood
+COLOR_TV-720P_4 = "03"  # Green
+COLOR_TV-720P_5 = "07"  # Orange
+COLOR_TV-720P_6 = "09"  # Dark Purple
+COLOR_TV-720P_7 = "09"  # Light Green
+COLOR_TV-720P_8 = "12"  # Blue
+COLOR_TV-720P_9 = "08"  # Yellow
+COLOR_TV-720P_10 = "11" # Light Blue
+COLOR_TV-720P_11 = "10" # Dark Cyan
+COLOR_TV-720P_12 = "13" # Light Purple
+
+# TV-1080P section
+COLOR_TV-1080P_1 = "14"  # Green
+COLOR_TV-1080P_2 = "07"  # Light Grey
+COLOR_TV-1080P_3 = "04"  # Red Blood
+COLOR_TV-1080P_4 = "03"  # Green
+COLOR_TV-1080P_5 = "07"  # Orange
+COLOR_TV-1080P_6 = "09"  # Dark Purple
+COLOR_TV-1080P_7 = "09"  # Light Green
+COLOR_TV-1080P_8 = "12"  # Blue
+COLOR_TV-1080P_9 = "08"  # Yellow
+COLOR_TV-1080P_10 = "11" # Light Blue
+COLOR_TV-1080P_11 = "10" # Dark Cyan
+COLOR_TV-1080P_12 = "13" # Light Purple
+
+# TV-2160P section
+COLOR_TV-2160P_1 = "14"  # Green
+COLOR_TV-2160P_2 = "07"  # Light Grey
+COLOR_TV-2160P_3 = "04"  # Red Blood
+COLOR_TV-2160P_4 = "03"  # Green
+COLOR_TV-2160P_5 = "07"  # Orange
+COLOR_TV-2160P_6 = "09"  # Dark Purple
+COLOR_TV-2160P_7 = "09"  # Light Green
+COLOR_TV-2160P_8 = "12"  # Blue
+COLOR_TV-2160P_9 = "08"  # Yellow
+COLOR_TV-2160P_10 = "11" # Light Blue
+COLOR_TV-2160P_11 = "10" # Dark Cyan
+COLOR_TV-2160P_12 = "13" # Light Purple
+
+# TV-BLURAY section
+COLOR_TV-BLURAY_1 = "14"  # Green
+COLOR_TV-BLURAY_2 = "07"  # Light Grey
+COLOR_TV-BLURAY_3 = "04"  # Red Blood
+COLOR_TV-BLURAY_4 = "03"  # Green
+COLOR_TV-BLURAY_5 = "07"  # Orange
+COLOR_TV-BLURAY_6 = "09"  # Dark Purple
+COLOR_TV-BLURAY_7 = "09"  # Light Green
+COLOR_TV-BLURAY_8 = "12"  # Blue
+COLOR_TV-BLURAY_9 = "08"  # Yellow
+COLOR_TV-BLURAY_10 = "11" # Light Blue
+COLOR_TV-BLURAY_11 = "10" # Dark Cyan
+COLOR_TV-BLURAY_12 = "13" # Light Purple
+
+# TV-SPORTS section
+COLOR_TV-SPORTS_1 = "14"  # Green
+COLOR_TV-SPORTS_2 = "07"  # Light Grey
+COLOR_TV-SPORTS_3 = "04"  # Red Blood
+COLOR_TV-SPORTS_4 = "03"  # Green
+COLOR_TV-SPORTS_5 = "07"  # Orange
+COLOR_TV-SPORTS_6 = "09"  # Dark Purple
+COLOR_TV-SPORTS_7 = "09"  # Light Green
+COLOR_TV-SPORTS_8 = "12"  # Blue
+COLOR_TV-SPORTS_9 = "08"  # Yellow
+COLOR_TV-SPORTS_10 = "11" # Light Blue
+COLOR_TV-SPORTS_11 = "10" # Dark Cyan
+COLOR_TV-SPORTS_12 = "13" # Light Purple
+
+# TV-DVDRIP section
+COLOR_TV-DVDRIP_1 = "14"  # Green
+COLOR_TV-DVDRIP_2 = "07"  # Light Grey
+COLOR_TV-DVDRIP_3 = "04"  # Red Blood
+COLOR_TV-DVDRIP_4 = "03"  # Green
+COLOR_TV-DVDRIP_5 = "07"  # Orange
+COLOR_TV-DVDRIP_6 = "09"  # Dark Purple
+COLOR_TV-DVDRIP_7 = "09"  # Light Green
+COLOR_TV-DVDRIP_8 = "12"  # Blue
+COLOR_TV-DVDRIP_9 = "08"  # Yellow
+COLOR_TV-DVDRIP_10 = "11" # Light Blue
+COLOR_TV-DVDRIP_11 = "10" # Dark Cyan
+COLOR_TV-DVDRIP_12 = "13" # Light Purple
+
+# TV-BLURAY section
+COLOR_TV-BLURAY_1 = "14"  # Green
+COLOR_TV-BLURAY_2 = "07"  # Light Grey
+COLOR_TV-BLURAY_3 = "04"  # Red Blood
+COLOR_TV-BLURAY_4 = "03"  # Green
+COLOR_TV-BLURAY_5 = "07"  # Orange
+COLOR_TV-BLURAY_6 = "09"  # Dark Purple
+COLOR_TV-BLURAY_7 = "09"  # Light Green
+COLOR_TV-BLURAY_8 = "12"  # Blue
+COLOR_TV-BLURAY_9 = "08"  # Yellow
+COLOR_TV-BLURAY_10 = "11" # Light Blue
+COLOR_TV-BLURAY_11 = "10" # Dark Cyan
+COLOR_TV-BLURAY_12 = "13" # Light Purple
+
+# MOVIES-BLURAY section
+COLOR_MOVIES-BLURAY_1 = "14"  # Green
+COLOR_MOVIES-BLURAY_2 = "04"  # Light Grey
+COLOR_MOVIES-BLURAY_3 = "04"  # Red Blood
+COLOR_MOVIES-BLURAY_4 = "03"  # Green
+COLOR_MOVIES-BLURAY_5 = "07"  # Orange
+COLOR_MOVIES-BLURAY_6 = "09"  # Dark Purple
+COLOR_MOVIES-BLURAY_7 = "09"  # Light Green
+COLOR_MOVIES-BLURAY_8 = "12"  # Blue
+COLOR_MOVIES-BLURAY_9 = "08"  # Yellow
+COLOR_MOVIES-BLURAY_10 = "11" # Light Blue
+COLOR_MOVIES-BLURAY_11 = "10" # Dark Cyan
+COLOR_MOVIES-BLURAY_12 = "13" # Light Purple
+
+# MOVIES-UHD section
+COLOR_MOVIES-UHD_1 = "14"  # Green
+COLOR_MOVIES-UHD_2 = "04"  # Light Grey
+COLOR_MOVIES-UHD_3 = "04"  # Red Blood
+COLOR_MOVIES-UHD_4 = "03"  # Green
+COLOR_MOVIES-UHD_5 = "07"  # Orange
+COLOR_MOVIES-UHD_6 = "09"  # Dark Purple
+COLOR_MOVIES-UHD_7 = "09"  # Light Green
+COLOR_MOVIES-UHD_8 = "12"  # Blue
+COLOR_MOVIES-UHD_9 = "08"  # Yellow
+COLOR_MOVIES-UHD_10 = "11" # Light Blue
+COLOR_MOVIES-UHD_11 = "10" # Dark Cyan
+COLOR_MOVIES-UHD_12 = "13" # Light Purple
+
+# MOVIES-X264 section
+COLOR_MOVIES-X264_1 = "14"  # Green
+COLOR_MOVIES-X264_2 = "04"  # Light Grey
+COLOR_MOVIES-X264_3 = "04"  # Red Blood
+COLOR_MOVIES-X264_4 = "03"  # Green
+COLOR_MOVIES-X264_5 = "07"  # Orange
+COLOR_MOVIES-X264_6 = "09"  # Dark Purple
+COLOR_MOVIES-X264_7 = "09"  # Light Green
+COLOR_MOVIES-X264_8 = "12"  # Blue
+COLOR_MOVIES-X264_9 = "08"  # Yellow
+COLOR_MOVIES-X264_10 = "11" # Light Blue
+COLOR_MOVIES-X264_11 = "10" # Dark Cyan
+COLOR_MOVIES-X264_12 = "13" # Light Purple
+
+# MOVIES-X265 section
+COLOR_MOVIES-X265_1 = "14"  # Green
+COLOR_MOVIES-X265_2 = "04"  # Light Grey
+COLOR_MOVIES-X265_3 = "04"  # Red Blood
+COLOR_MOVIES-X265_4 = "03"  # Green
+COLOR_MOVIES-X265_5 = "07"  # Orange
+COLOR_MOVIES-X265_6 = "09"  # Dark Purple
+COLOR_MOVIES-X265_7 = "09"  # Light Green
+COLOR_MOVIES-X265_8 = "12"  # Blue
+COLOR_MOVIES-X265_9 = "08"  # Yellow
+COLOR_MOVIES-X265_10 = "11" # Light Blue
+COLOR_MOVIES_X265_11 = "10" # Dark Cyan
+COLOR_MOVIES_X265_12 = "13" # Light Purple
+
+# MOVIES-XVID section
+COLOR_MOVIES-XVID_1 = "14"  # Green
+COLOR_MOVIES-XVID_2 = "04"  # Light Grey
+COLOR_MOVIES-XVID_3 = "04"  # Red Blood
+COLOR_MOVIES-XVID_4 = "03"  # Green
+COLOR_MOVIES-XVID_5 = "07"  # Orange
+COLOR_MOVIES-XVID_6 = "09"  # Dark Purple
+COLOR_MOVIES-XVID_7 = "09"  # Light Green
+COLOR_MOVIES-XVID_8 = "12"  # Blue
+COLOR_MOVIES-XVID_9 = "08"  # Yellow
+COLOR_MOVIES-XVID_10 = "11" # Light Blue
+COLOR_MOVIES-XVID_11 = "10" # Dark Cyan
+COLOR_MOVIES-XVID_12 = "13" # Light Purple
+
+
+# MOVIES-DK section
+COLOR_MOVIES-DK_1 = "14"  # Green
+COLOR_MOVIES-DK_2 = "04"  # Light Grey
+COLOR_MOVIES-DK_3 = "04"  # Red Blood
+COLOR_MOVIES-DK_4 = "03"  # Green
+COLOR_MOVIES-DK_5 = "07"  # Orange
+COLOR_MOVIES-DK_6 = "09"  # Dark Purple
+COLOR_MOVIES-DK_7 = "09"  # Light Green
+COLOR_MOVIES-DK_8 = "12"  # Blue
+COLOR_MOVIES-DK_9 = "08"  # Yellow
+COLOR_MOVIES-DK_10 = "11" # Light Blue
+COLOR_MOVIES-DK_11 = "10" # Dark Cyan
+COLOR_MOVIES-DK_12 = "13" # Light Purple
+
+# MOVIES-SWE section
+COLOR_MOVIES-SWE_1 = "14"  # Green
+COLOR_MOVIES-SWE_2 = "04"  # Light Grey
+COLOR_MOVIES-SWE_3 = "04"  # Red Blood
+COLOR_MOVIES-SWE_4 = "03"  # Green
+COLOR_MOVIES-SWE_5 = "07"  # Orange
+COLOR_MOVIES-SWE_6 = "09"  # Dark Purple
+COLOR_MOVIES-SWE_7 = "09"  # Light Green
+COLOR_MOVIES-SWE_8 = "12"  # Blue
+COLOR_MOVIES-SWE_9 = "08"  # Yellow
+COLOR_MOVIES-SWE_10 = "11" # Light Blue
+COLOR_MOVIES-SWE_11 = "10" # Dark Cyan
+COLOR_MOVIES-SWE_12 = "13" # Light Purple
+
+# MOVIES-PL section
+COLOR_MOVIES-PL_1 = "14"  # Green
+COLOR_MOVIES-PL_2 = "04"  # Light Grey
+COLOR_MOVIES-PL_3 = "04"  # Red Blood
+COLOR_MOVIES-PL_4 = "03"  # Green
+COLOR_MOVIES-PL_5 = "07"  # Orange
+COLOR_MOVIES-PL_6 = "09"  # Dark Purple
+COLOR_MOVIES-PL_7 = "09"  # Light Green
+COLOR_MOVIES-PL_8 = "12"  # Blue
+COLOR_MOVIES-PL_9 = "08"  # Yellow
+COLOR_MOVIES-PL_10 = "11" # Light Blue
+COLOR_MOVIES-PL_11 = "10" # Dark Cyan
+COLOR_MOVIES-PL_12 = "13" # Light Purple
+
+# MOVIES-CZ section
+COLOR_MOVIES-CZ_1 = "14"  # Green
+COLOR_MOVIES-CZ_2 = "04"  # Light Grey
+COLOR_MOVIES-CZ_3 = "04"  # Red Blood
+COLOR_MOVIES-CZ_4 = "03"  # Green
+COLOR_MOVIES-CZ_5 = "07"  # Orange
+COLOR_MOVIES-CZ_6 = "09"  # Dark Purple
+COLOR_MOVIES-CZ_7 = "09"  # Light Green
+COLOR_MOVIES-CZ_8 = "12"  # Blue
+COLOR_MOVIES-CZ_9 = "08"  # Yellow
+COLOR_MOVIES-CZ_10 = "11" # Light Blue
+COLOR_MOVIES-CZ_11 = "10" # Dark Cyan
+COLOR_MOVIES-CZ_12 = "13" # Light Purple
+
+# MOVIES-HU section
+COLOR_MOVIES-HU_1 = "14"  # Green
+COLOR_MOVIES-HU_2 = "04"  # Light Grey
+COLOR_MOVIES-HU_3 = "04"  # Red Blood
+COLOR_MOVIES-HU_4 = "03"  # Green
+COLOR_MOVIES-HU_5 = "07"  # Orange
+COLOR_MOVIES-HU_6 = "09"  # Dark Purple
+COLOR_MOVIES-HU_7 = "09"  # Light Green
+COLOR_MOVIES-HU_8 = "12"  # Blue
+COLOR_MOVIES-HU_9 = "08"  # Yellow
+COLOR_MOVIES-HU_10 = "11" # Light Blue
+COLOR_MOVIES-HU_11 = "10" # Dark Cyan
+COLOR_MOVIES-HU_12 = "13" # Light Purple
+
+# MOVIES-PT section
+COLOR_MOVIES-PT_1 = "14"  # Green
+COLOR_MOVIES-PT_2 = "04"  # Light Grey
+COLOR_MOVIES-PT_3 = "04"  # Red Blood
+COLOR_MOVIES-PT_4 = "03"  # Green
+COLOR_MOVIES-PT_5 = "07"  # Orange
+COLOR_MOVIES-PT_6 = "09"  # Dark Purple
+COLOR_MOVIES-PT_7 = "09"  # Light Green
+COLOR_MOVIES-PT_8 = "12"  # Blue
+COLOR_MOVIES-PT_9 = "08"  # Yellow
+COLOR_MOVIES-PT_10 = "11" # Light Blue
+COLOR_MOVIES-PT_11 = "10" # Dark Cyan
+COLOR_MOVIES-PT_12 = "13" # Light Purple
+
+# MOVIES-FIN section
+COLOR_MOVIES-FIN_1 = "14"  # Green
+COLOR_MOVIES-FIN_2 = "04"  # Light Grey
+COLOR_MOVIES-FIN_3 = "04"  # Red Blood
+COLOR_MOVIES-FIN_4 = "03"  # Green
+COLOR_MOVIES-FIN_5 = "07"  # Orange
+COLOR_MOVIES-FIN_6 = "09"  # Dark Purple
+COLOR_MOVIES-FIN_7 = "09"  # Light Green
+COLOR_MOVIES-FIN_8 = "12"  # Blue
+COLOR_MOVIES-FIN_9 = "08"  # Yellow
+COLOR_MOVIES-FIN_10 = "11" # Light Blue
+COLOR_MOVIES-FIN_11 = "10" # Dark Cyan
+COLOR_MOVIES-FIN_12 = "13" # Light Purple
+
+# MOVIES-NO section
+COLOR_MOVIES-NO_1 = "14"  # Green
+COLOR_MOVIES-NO_2 = "04"  # Light Grey
+COLOR_MOVIES-NO_3 = "04"  # Red Blood
+COLOR_MOVIES-NO_4 = "03"  # Green
+COLOR_MOVIES-NO_5 = "07"  # Orange
+COLOR_MOVIES-NO_6 = "09"  # Dark Purple
+COLOR_MOVIES-NO_7 = "09"  # Light Green
+COLOR_MOVIES-NO_8 = "12"  # Blue
+COLOR_MOVIES-NO_9 = "08"  # Yellow
+COLOR_MOVIES-NO_10 = "11" # Light Blue
+COLOR_MOVIES-NO_11 = "10" # Dark Cyan
+COLOR_MOVIES-NO_12 = "13" # Light Purple
+
+# MOVIES-DE section
+COLOR_MOVIES-DE_1 = "14"  # Green
+COLOR_MOVIES-DE_2 = "04"  # Light Grey
+COLOR_MOVIES-DE_3 = "04"  # Red Blood
+COLOR_MOVIES-DE_4 = "03"  # Green
+COLOR_MOVIES-DE_5 = "07"  # Orange
+COLOR_MOVIES-DE_6 = "09"  # Dark Purple
+COLOR_MOVIES-DE_7 = "09"  # Light Green
+COLOR_MOVIES-DE_8 = "12"  # Blue
+COLOR_MOVIES-DE_9 = "08"  # Yellow
+COLOR_MOVIES-DE_10 = "11" # Light Blue
+COLOR_MOVIES-DE_11 = "10" # Dark Cyan
+COLOR_MOVIES-DE_12 = "13" # Light Purple
+
+# MOVIES-FR section
+COLOR_MOVIES-FR_1 = "14"  # Green
+COLOR_MOVIES-FR_2 = "04"  # Light Grey
+COLOR_MOVIES-FR_3 = "04"  # Red Blood
+COLOR_MOVIES-FR_4 = "03"  # Green
+COLOR_MOVIES-FR_5 = "07"  # Orange
+COLOR_MOVIES-FR_6 = "09"  # Dark Purple
+COLOR_MOVIES-FR_7 = "09"  # Light Green
+COLOR_MOVIES-FR_8 = "12"  # Blue
+COLOR_MOVIES-FR_9 = "08"  # Yellow
+COLOR_MOVIES-FR_10 = "11" # Light Blue
+COLOR_MOVIES-FR_11 = "10" # Dark Cyan
+COLOR_MOVIES-FR_12 = "13" # Light Purple
+
+# MOVIES-IT section
+COLOR_MOVIES-IT_1 = "14"  # Green
+COLOR_MOVIES-IT_2 = "04"  # Light Grey
+COLOR_MOVIES-IT_3 = "04"  # Red Blood
+COLOR_MOVIES-IT_4 = "03"  # Green
+COLOR_MOVIES-IT_5 = "07"  # Orange
+COLOR_MOVIES-IT_6 = "09"  # Dark Purple
+COLOR_MOVIES-IT_7 = "09"  # Light Green
+COLOR_MOVIES-IT_8 = "12"  # Blue
+COLOR_MOVIES-IT_9 = "08"  # Yellow
+COLOR_MOVIES-IT_10 = "11" # Light Blue
+COLOR_MOVIES-IT_11 = "10" # Dark Cyan
+COLOR_MOVIES-IT_12 = "13" # Light Purple
+
+# MOVIES-NL section
+COLOR_MOVIES-NL_1 = "14"  # Green
+COLOR_MOVIES-NL_2 = "04"  # Light Grey
+COLOR_MOVIES-NL_3 = "04"  # Red Blood
+COLOR_MOVIES-NL_4 = "03"  # Green
+COLOR_MOVIES-NL_5 = "07"  # Orange
+COLOR_MOVIES-NL_6 = "09"  # Dark Purple
+COLOR_MOVIES-NL_7 = "09"  # Light Green
+COLOR_MOVIES-NL_8 = "12"  # Blue
+COLOR_MOVIES-NL_9 = "08"  # Yellow
+COLOR_MOVIES-NL_10 = "11" # Light Blue
+COLOR_MOVIES-NL_11 = "10" # Dark Cyan
+COLOR_MOVIES-NL_12 = "13" # Light Purple
+
+# MOVIES-FR section
+COLOR_MOVIES-SP_1 = "14"  # Green
+COLOR_MOVIES-SP_2 = "04"  # Light Grey
+COLOR_MOVIES-SP_3 = "04"  # Red Blood
+COLOR_MOVIES-SP_4 = "03"  # Green
+COLOR_MOVIES-SP_5 = "07"  # Orange
+COLOR_MOVIES-SP_6 = "09"  # Dark Purple
+COLOR_MOVIES-SP_7 = "09"  # Light Green
+COLOR_MOVIES-SP_8 = "12"  # Blue
+COLOR_MOVIES-SP_9 = "08"  # Yellow
+COLOR_MOVIES-SP_10 = "11" # Light Blue
+COLOR_MOVIES-SP_11 = "10" # Dark Cyan
+COLOR_MOVIES-SP_12 = "13" # Light Purple
+
+# MOVIES-DVDR section
+COLOR_MOVIES-DVDR_1 = "14"  # Green
+COLOR_MOVIES-DVDR_2 = "04"  # Light Grey
+COLOR_MOVIES-DVDR_3 = "04"  # Red Blood
+COLOR_MOVIES-DVDR_4 = "03"  # Green
+COLOR_MOVIES-DVDR_5 = "07"  # Orange
+COLOR_MOVIES-DVDR_6 = "09"  # Dark Purple
+COLOR_MOVIES-DVDR_7 = "09"  # Light Green
+COLOR_MOVIES-DVDR_8 = "12"  # Blue
+COLOR_MOVIES-DVDR_9 = "08"  # Yellow
+COLOR_MOVIES-DVDR_10 = "11" # Light Blue
+COLOR_MOVIES-DVDR_11 = "10" # Dark Cyan
+COLOR_MOVIES-DVDR_12 = "13" # Light Purple
+
+# XXX section
+COLOR_XXX_1 = "14"  # Green
+COLOR_XXX_2 = "06"  # Light Grey
+COLOR_XXX_3 = "04"  # Red Blood
+COLOR_XXX_4 = "03"  # Green
+COLOR_XXX_5 = "07"  # Orange
+COLOR_XXX_6 = "09"  # Dark Purple
+COLOR_XXX_7 = "09"  # Light Green
+COLOR_XXX_8 = "12"  # Blue
+COLOR_XXX_9 = "08"  # Yellow
+COLOR_XXX_10 = "11" # Light Blue
+COLOR_XXX_11 = "10" # Dark Cyan
+COLOR_XXX_12 = "13" # Light Purple
+
+# XXX-PAYSITE section
+COLOR_XXX-PAYSITE_1 = "14"  # Green
+COLOR_XXX-PAYSITE_2 = "06"  # Light Grey
+COLOR_XXX-PAYSITE_3 = "04"  # Red Blood
+COLOR_XXX-PAYSITE_4 = "03"  # Green
+COLOR_XXX-PAYSITE_5 = "07"  # Orange
+COLOR_XXX-PAYSITE_6 = "09"  # Dark Purple
+COLOR_XXX-PAYSITE_7 = "09"  # Light Green
+COLOR_XXX-PAYSITE_8 = "12"  # Blue
+COLOR_XXX-PAYSITE_9 = "08"  # Yellow
+COLOR_XXX-PAYSITE_10 = "11" # Light Blue
+COLOR_XXX-PAYSITE_11 = "10" # Dark Cyan
+COLOR_XXX-PAYSITE_12 = "13" # Light Purple
+
+# XXX-IMAGESET section
+COLOR_XXX-IMAGESET_1 = "14"  # Green
+COLOR_XXX-IMAGESET_2 = "06"  # Light Grey
+COLOR_XXX-IMAGESET_3 = "04"  # Red Blood
+COLOR_XXX-IMAGESET_4 = "03"  # Green
+COLOR_XXX-IMAGESET_5 = "07"  # Orange
+COLOR_XXX-IMAGESET_6 = "09"  # Dark Purple
+COLOR_XXX-IMAGESET_7 = "09"  # Light Green
+COLOR_XXX-IMAGESET_8 = "12"  # Blue
+COLOR_XXX-IMAGESET_9 = "08"  # Yellow
+COLOR_XXX-IMAGESET_10 = "11" # Light Blue
+COLOR_XXX-IMAGESET_11 = "10" # Dark Cyan
+COLOR_XXX-IMAGESET_12 = "13" # Light Purple
+
+#
+############################################################
+#
+
+#PREFIX			= "%c1{[}%c2{%b{%sitename}}%c1{]} "
+PREFIX			= ""
+SPLITTER		= "%c1{,} "
+KB			= "%b{%value}%c1{KB/s}"
+MB			= "%b{%value}%c1{MB/s}"
+KBIT			= "%b{%value}%c1{Kbit/s}"
+MBIT			= "%b{%value}%c1{Mbit/s}"
+fakesection.INVITE	= "iNViTE"
+
+## Default announce
+announce.DEFAULT				= "%b{INFO%c1{:}} %c1{%msg}"
+
+## Login announcements
+announce.LOGIN					= "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{has logged in.}"
+announce.LOGOUT					= "%b{LOGOUT%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{has logged out.}"
+announce.BADHOSTMASK				= "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{failed to log in from} %c5{%u_hostmask}%c1{.}"
+announce.BADPASSWORD				= "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{tried to log in with a wrong password.}"
+announce.BADUSERNAME                            = "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{tried to log in with a user that doesn't exist.}"
+announce.BADEMAILPASS                           = "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{tried to log in with an incorrect email address.}"
+announce.BANNEDHOST				= "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{could not log, hostmask} %c5{%u_hostmask} %c1{is banned.}"
+announce.DELETED				= "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{could not log in, user deleted.}"
+announce.EXPIRED				= "%b{LOGiN%c1{:}} %c5{%b{%u_name}} %c1{could not log in, user expired.}"
+announce.IPNOTADDED				= "%b{LOGiN%c1{:}} %c1{denied unknown connection from} %c5{%b{%u_hostmask}} %c1{at ip} %c5{%b{%u_ip}}%c1{.}"
+announce.KILLGHOST				= "%b{GHOST%c1{:}} %c5{%b{%u_name}} %c1{killed a ghost with PiD} %c5{%b{%pid}}%c1{.}"
+announce.TAGLINE				= "%b{TAGLiNE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{has changed his tagline to} %c5{%b{%u_tagline}}%c1{.}"
+announce.TIMEOUT				= "%b{LOGOUT%c1{:}} %c5{%b{%u_name}} %c1{has timed out after} %c5{%b{%u_idletime}}%c1{s.}"
+
+## Sysop announcements (only important announces are themed)
+announce.ADDUSER				= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{added user} %c5{%b{%u_name}}%c1{.}"
+announce.GADDUSER				= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{added user} %c5{%b{%u_name}} %c1{to group} %c5{%b{%g_name}}%c1{.}"
+announce.CHGRPADD				= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{added} %c5{%b{%u_name}} %c1{to group} %c5{%b{%g_name}}%c1{.}"
+announce.CHGRPDEL				= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{removed} %c5{%b{%u_name}} %c1{from group} %c5{%b{%g_name}}%c1{.}"
+announce.ADDIP					= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{added ip} %c5{%b{%u_ip}} %c1{to} %c5{%b{%u_name}}%c1{.}"
+announce.DELIP					= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{removed ip} %c5{%b{%u_ip}} %c1{from} %c5{%b{%u_name}}%c1{.}"
+announce.READDED				= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{readded} %c5{%b{%u_name}}%c1{.}"
+announce.DELUSER				= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{deleted} %c5{%b{%u_name}}%c1{.}"
+announce.PURGED					= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{purged} %c5{%b{%u_name}}%c1{.}"
+announce.KILLED					= "%b{SYSOP%c1{:}} %c5{%b{%u_siteop}} %c1{killed} %c5{%b{%u_name}} %c1{(PiD:} %c5{%b{%pid}}%c1{).}"
+announce.SYSOP					= "%b{SYSOP%c1{:}} %c1{%msg}"
+
+## glFTPd announcements %b{%r6{NEW RELEASE
+announce.NEWDIR					= "\n%b{%c7{NEW RELEASE}} iN %c2{%b{%section}} -> %c5{%b{%relname}} %c1{-} %c1{YEHAW!} %c5{%b{%u_name}} %c1{got his first %b{Marshmallows} and rdy to RACE his rocket!}"
+announce.PROOF					= "%b{%c5{JPG PROOF}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c1{We have Proof from} %c5{%b{%u_name}}"
+announce.DELDIR					= "%b{DELETE%c1{:}} %c2{%b{%section}} %c5{%relname} %c1{has been deleted by} %c5{%b{%u_name}}"
+announce.NUKE                                   = "%b{%c3{NUKE}} iN %c2{%b{%section}} -> %c5{%relname} %c1{was nuked factor} %c5{%b{x%multiplier}} %c1{by} %c5{%b{%nuker}} %c1{[reason]} %c5{%b{%reason}}\n%b{%c3{NUKES}} %nukees%c1{.}\n "
+announce.UNNUKE                                 = "%b{%c4{UNNUKE}} iN %c2{%b{%section}} -> %c5{%relname} %c1{was nuked factor} %c5{%b{x%multiplier}} %c1{by} %c5{%b{%nuker}} %c1{[reason]} %c5{%b{%reason}}\n%b{%c3{UNNUKES}} %nukees%c1{.}\n "
+announce.NUKEES					= "%c5{%b{%u_name}} %c1{(}%c5{%b{%size}}%c1{MB)}"
+announce.WIPE					= "%b{WiPE%c1{:}} %c2{%b{%section}} %c5{%relname} %c1{has been wiped by} %c5{%b{%u_name}} %c1{.}"
+announce.WIPE-r					= "%b{WiPE-R%c1{:}} %c2{%b{%section}} %c5{%relname} %c1{and all its subdirectories were just wiped by} %c5{%b{%u_name}} %c1{.}"
+
+## Special zipscript announcements
+announce.DOUBLESFV				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{tried to upload a dupe sfv.}"
+announce.BADBITRATE				= "%b{RULES%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{is violating rules by uploading shit with bitrate} %c5{%b{%bitrate}}%c1{kbps.}"
+announce.BADGENRE				= "%b{RULES%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{is violating rules by uploading} %c5{%b{%genre}}%c1{.}"
+announce.BADYEAR				= "%b{RULES%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{is violating rules by uploading shit from} %c5{%b{%year}}%c1{.}"
+announce.BAD_FILE_0SIZE				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (0-sized file) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_BITRATE			= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (banned bitrate) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_CRC				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (CRC mismatch) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_DISALLOWED			= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (filetype not allowed) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_DUPENFO			= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (dupe NFO) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_GENRE				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (banned genre) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_NOSFV				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (no SFV uploaded yet) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_SFV				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (SFV with errors) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_WRONGDIR			= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (wrong dir) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_YEAR				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (banned year) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_ZIP				= "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (ZiP integrity failed) in} %c5{%b{%releasename}}%c1{.}"
+announce.BAD_FILE_ZIPNFO                        = "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{uploaded a bad file (nfo no allowed in zip-dirs) in} %c5{%b{%releasename}}%c1{.}"
+announce.RESUMESFV                              = "%b{NOTiCE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{(tried to resume/overwrite an sfv) in} %c5{%b{%releasename}}%c1{.}"
+
+## Loop variables, these format the racers and stats
+announce.RACE_AUDIO_LOOP1			= "%c5{%b{%a_name}}%splitter"
+announce.RACE_AUDIO_LOOP2			= "%c5{%b{%r_name}}%splitter"
+announce.RACE_OTHER_LOOP1			= "%c5{%b{%a_name}}%splitter"
+announce.RACE_OTHER_LOOP2			= "%c5{%b{%r_name}}%splitter"
+announce.RACE_RAR_LOOP1				= "%c5{%b{%a_name}}%splitter"
+announce.RACE_RAR_LOOP2				= "%c5{%b{%r_name}}%splitter"
+announce.RACE_VIDEO_LOOP1			= "%c5{%b{%a_name}}%splitter"
+announce.RACE_VIDEO_LOOP2			= "%c5{%b{%r_name}}%splitter"
+announce.RACE_ZIP_LOOP1				= "%c5{%b{%a_name}}%splitter"
+announce.RACE_ZIP_LOOP2				= "%c5{%b{%r_name}}%splitter"
+
+announce.HALFWAY_RACE_AUDIO_LOOP1		= "%c5{%b{%r_name}}%splitter"
+announce.HALFWAY_RACE_OTHER_LOOP1		= "%c5{%b{%r_name}}%splitter"
+announce.HALFWAY_RACE_RAR_LOOP1			= "%c5{%b{%r_name}}%splitter"
+announce.HALFWAY_RACE_VIDEO_LOOP1		= "%c5{%b{%r_name}}%splitter"
+announce.HALFWAY_RACE_ZIP_LOOP1			= "%c5{%b{%r_name}}%splitter"
+announce.NEWLEADER_AUDIO_LOOP1			= "%c5{%b{%a_name}}%splitter"
+announce.NEWLEADER_OTHER_LOOP1			= "%c5{%b{%a_name}}%splitter"
+announce.NEWLEADER_RAR_LOOP1			= "%c5{%b{%a_name}}%splitter"
+announce.NEWLEADER_VIDEO_LOOP1			= "%c5{%b{%a_name}}%splitter"
+announce.NEWLEADER_ZIP_LOOP1			= "%c5{%b{%a_name}}%splitter"
+
+announce.COMPLETE_STAT_RACE_AUDIO_CBR_LOOP1	= "%c5{%b{%r_name}}%splitter %c1{/} %c5{%r_gname}%splitter"
+announce.COMPLETE_STAT_RACE_AUDIO_CBR_LOOP2 	= "\n%c1{[}%c2{%g_racer_position}%c1{]} %c5{%b{%g_racer_name}} %c1{-} %c5{%b{%g_racer_files}}%c1{f} %c1{-} %c5{%b{%g_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%g_racer_percent}%} %c1{-} %c5{%g_racer_avgspeed}"
+announce.COMPLETE_STAT_RACE_AUDIO_CBR_LOOP3 	= "\n%c1{[}%c2{%u_racer_position}%c1{]} %c5{%b{%u_racer_name}} %c1{-} %c5{%b{%u_racer_files}}%c1{f} %c1{-} %c5{%b{%u_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%u_racer_percent}%} %c1{-} %c5{%u_racer_avgspeed} %c1{-} %c1{WeekTop} %c5{#} %c5{%b{%u_racer_wkup}}"
+announce.COMPLETE_STAT_RACE_AUDIO_VBR_LOOP1	= "%c5{%b{%r_name}}%splitter %c1{/} %c5{%r_gname}%splitter"
+announce.COMPLETE_STAT_RACE_AUDIO_VBR_LOOP2 	= "\n%c1{[}%c2{%g_racer_position}%c1{]} %c5{%b{%g_racer_name}} %c1{-} %c5{%b{%g_racer_files}}%c1{f} %c1{-} %c5{%b{%g_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%g_racer_percent}%} %c1{-} %c5{%g_racer_avgspeed}"
+announce.COMPLETE_STAT_RACE_AUDIO_VBR_LOOP3 	= "\n%c1{[}%c2{%u_racer_position}%c1{]} %c5{%b{%u_racer_name}} %c1{-} %c5{%b{%u_racer_files}}%c1{f} %c1{-} %c5{%b{%u_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%u_racer_percent}%} %c1{-} %c5{%u_racer_avgspeed} %c1{-} %c1{WeekTop} %c5{#} %c5{%b{%u_racer_wkup}}"
+announce.COMPLETE_STAT_RACE_OTHER_LOOP1		= "%c5{%b{%r_name}}%splitter %c1{/} %c5{%r_gname}%splitter"
+announce.COMPLETE_STAT_RACE_OTHER_LOOP2 	= "\n%c1{[}%c2{%g_racer_position}%c1{]} %c5{%b{%g_racer_name}} %c1{-} %c5{%b{%g_racer_files}}%c1{f} %c1{-} %c5{%b{%g_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%g_racer_percent}%} %c1{-} %c5{%g_racer_avgspeed}"
+announce.COMPLETE_STAT_RACE_OTHER_LOOP3 	= "\n%c1{[}%c2{%u_racer_position}%c1{]} %c5{%b{%u_racer_name}} %c1{-} %c5{%b{%u_racer_files}}%c1{f} %c1{-} %c5{%b{%u_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%u_racer_percent}%} %c1{-} %c5{%u_racer_avgspeed} %c1{-} %c1{WeekTop} %c5{#} %c5{%b{%u_racer_wkup}}"
+announce.COMPLETE_STAT_RACE_RAR_LOOP1		= "%c5{%b{%r_name}}%splitter %c1{/} %c5{%r_gname}%splitter"
+announce.COMPLETE_STAT_RACE_RAR_LOOP2 		= "\n%c1{[}%c2{%g_racer_position}%c1{]} %c5{%b{%g_racer_name}} %c1{-} %c5{%b{%g_racer_files}}%c1{f} %c1{-} %c5{%b{%g_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%g_racer_percent}%} %c1{-} %c5{%g_racer_avgspeed}"
+announce.COMPLETE_STAT_RACE_RAR_LOOP3 		= "\n%c1{[}%c2{%u_racer_position}%c1{]} %c5{%b{%u_racer_name}} %c1{-} %c5{%b{%u_racer_files}}%c1{f} %c1{-} %c5{%b{%u_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%u_racer_percent}%} %c1{-} %c5{%u_racer_avgspeed} %c1{-} %c1{WeekTop} %c5{#} %c5{%b{%u_racer_wkup}}"
+announce.COMPLETE_STAT_RACE_VIDEO_LOOP1		= "%c5{%b{%r_name}}%splitter %c1{/} %c5{%r_gname}%splitter"
+announce.COMPLETE_STAT_RACE_VIDEO_LOOP2 	= "\n%c1{[}%c2{%g_racer_position}%c1{]} %c5{%b{%g_racer_name}} %c1{-} %c5{%b{%g_racer_files}}%c1{f} %c1{-} %c5{%b{%g_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%g_racer_percent}%} %c1{-} %c5{%g_racer_avgspeed}"
+announce.COMPLETE_STAT_RACE_VIDEO_LOOP3 	= "\n%c1{[}%c2{%u_racer_position}%c1{]} %c5{%b{%u_racer_name}} %c1{-} %c5{%b{%u_racer_files}}%c1{f} %c1{-} %c5{%b{%u_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%u_racer_percent}%} %c1{-} %c5{%u_racer_avgspeed} %c1{-} %c1{WeekTop} %c5{#} %c5{%b{%u_racer_wkup}}"
+announce.COMPLETE_STAT_RACE_ZIP_LOOP1		= "%c5{%b{%r_name}}%splitter %c1{/} %c5{%r_gname}%splitter"
+announce.COMPLETE_STAT_RACE_ZIP_LOOP2 		= "\n%c1{[}%c2{%g_racer_position}%c1{]} %c5{%b{%g_racer_name}} %c1{-} %c5{%b{%g_racer_files}}%c1{f} %c1{-} %c5{%b{%g_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%g_racer_percent}%} %c1{-} %c5{%g_racer_avgspeed}"
+announce.COMPLETE_STAT_RACE_ZIP_LOOP3 		= "\n%c1{[}%c2{%u_racer_position}%c1{]} %c5{%b{%u_racer_name}} %c1{-} %c5{%b{%u_racer_files}}%c1{f} %c1{-} %c5{%b{%u_racer_mbytes}}%c1{MB} %c1{-} %c5{%b{%u_racer_percent}%} %c1{-} %c5{%u_racer_avgspeed} %c1{-} %c1{WeekTop} %c5{#} %c5{%b{%u_racer_wkup}}"
+
+## Standard zipscript announcements
+announce.RACE_AUDIO				= "%b{%c8{RACE}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c5{%b{%u_name}} %c1{flying his rocket against} %loop1"
+announce.RACE_OTHER				= "%b{%c8{RACE}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%b{%u_name}} %c1{flying his rocket against} %loop1"
+announce.RACE_RAR				= "%b{%c8{RACE}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%b{%u_name}} %c1{flying his rocket against} %loop1"
+announce.RACE_VIDEO				= "%b{%c8{RACE}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%b{%u_name}} %c1{flying his rocket against} %loop1"
+announce.RACE_ZIP				= "%b{%c8{RACE}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c5{%b{%u_name}} %c1{flying his rocket against} %loop1"
+announce.SFV_AUDIO				= "%b{%c9{SFV}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Houston, We have a SFV from astronaut} %c5{%b{%u_name}} %c1{. Now expecting} %c5{%b{%t_filecount}} %c1{tracks.}"
+announce.SFV_OTHER				= "%b{%c9{SFV}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c1{Houston, We have a SFV from astronaut} %c5{%b{%u_name}} %c1{. Now expecting} %c5{%b{%t_filecount}} %c1{file(s).}"
+announce.SFV_RAR				= "%b{%c9{SFV}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c1{Houston, We have a SFV from atronaut} %c5{%b{%u_name}} %c1{. Now expecting} %c5{%b{%t_filecount}} %c1{rar file(s).}"
+announce.SFV_VIDEO				= "%b{%c9{SFV}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c1{Houston, We have a SFV from astronaut} %c5{%b{%u_name}} %c1{. Now expecting} %c5{%b{%t_filecount}} %c1{file(s).}"
+announce.UPDATE_CBR				= "%b{%c5{iD3}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-}%c1{Astronaut} %c5{%b{%u_name}} %c1{/}  %c1{Send us iD3} %c1{at} %c5{%u_speed}%c1{.}\n%b{%c5{AUDIO INFO}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Get Ready for some}  %c5{%b{%genre}} %c1{from} %c5{%b{%year}} %c1{at} %c5{%b{%sampling}}%c1{Hz in} %c5{%mode} %c5{%b{%bitrate}}%c1{kbps (}%c5{%audio}%c1{).}"
+announce.UPDATE_OTHER				= "%b{%c5{UPDATE%c1{:}}} %c2{%b{%section}} -> %c5{%relname} %c1{-} %c1{Got first file from} %c5{%b{%u_name}} %c1{/}  %c1{at} %c5{%u_speed}%c1{. Now expecting} %c5{%b{%t_mbytes}}%c1{MB.}"
+announce.UPDATE_RAR				= "%b{%c5{RAR}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{Send us first RAR} %c1{. Now expecting} %c5{%b{%t_mbytes}}%c1{MB.}"
+announce.UPDATE_VBR				= "%b{%c5{VBR}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{Send us VBR} %c1{.}\n%b{%c5{AUDIO INFO}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Get Ready for some} %c5{%b{%genre}} %c1{from} %c5{%b{%year}} %c1{at} %c5{%b{%sampling}}%c1{Hz in} %c5{%mode} %c5{%b{%bitrate}}%c1{kbps (}%c5{%audio %a_stream}%c1{).}"
+announce.UPDATE_VIDEO				= "%b{%c5{UPDATE%c1{:}}} %c2{%b{%section}} %c5{%relname} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{Send us UPDATE} %c1{. Now expecting} %c5{%b{%t_mbytes}}%c1{MB.}"
+announce.UPDATE_ZIP				= "%b{%c5{ZiP}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{Send us first ZiP} %c1{. Now expecting} %c5{%b{%t_mbytes}}%c1{MB.}"
+announce.HALFWAY_NORACE_AUDIO           	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{avg speed:} %c5{%t_avgspeed} %c1{-} %c1{time left:} %c5{%t_timeleft} %c1{-} %c1{leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_NORACE_OTHER           	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_NORACE_RAR             	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_NORACE_VIDEO           	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}}"
+announce.HALFWAY_NORACE_ZIP             	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_RACE_AUDIO             	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_RACE_OTHER             	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_RACE_RAR               	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_RACE_VIDEO             	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+announce.HALFWAY_RACE_ZIP               	= "%b{%c8{HALFWAY}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{-} %c1{Leader:} %c5{%u_leader_name} %c1{[}%c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{%/}%c5{%u_leader_avgspeed}%c1{] -} %c5{%t_missingfiles} %c1{files left.}"
+
+announce.NEWLEADER_AUDIO                	= "%b{%c8{NEW LEADER}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%u_leader_name} %c1{is Reaching the sky quickly with his Cargo!} %c1{-} %c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{/}%c5{%u_leader_avgspeed} %c1{-} %c5{%t_missingfiles} %c1{files left.}"
+announce.NEWLEADER_OTHER               	 	= "%b{%c8{NEW LEADER}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%u_leader_name} %c1{is Reaching the sky quickly with his Cargo!} %c1{-} %c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{/}%c5{%u_leader_avgspeed} %c1{-} %c5{%t_missingfiles} %c1{files left.}"
+announce.NEWLEADER_RAR                  	= "%b{%c8{NEW LEADER}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%u_leader_name} %c1{is Reaching the sky quickly with his Cargo!} %c1{-} %c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{/}%c5{%u_leader_avgspeed} %c1{-} %c5{%t_missingfiles} %c1{files left.}"
+announce.NEWLEADER_VIDEO                	= "%b{%c8{NEW LEADER}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%u_leader_name} %c1{is Reaching the sky quickly!} %c1{-} %c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{/}%c5{%u_leader_avgspeed} %c1{-} %c5{%t_missingfiles} %c1{files left.}"
+announce.NEWLEADER_ZIP                  	= "%b{%c8{NEW LEADER}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c5{%u_leader_name} %c1{is Reaching the sky quickly with his Cargo!} %c1{-} %c5{%u_leader_mbytes}%c1{MB/}%c5{%u_leader_files}%c1{F/}%c5{%u_leader_percent}%c1{/}%c5{%u_leader_avgspeed} %c1{-} %c5{%t_missingfiles} %c1{files left.}"
+
+announce.COMPLETE_AUDIO_CBR					= "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by- one} %c1{Astronaut} %b{%c5{%u_name}} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}"
+announce.COMPLETE_AUDIO_VBR					= "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by- one} %c1{Astronaut} %b{%c5{%u_name}} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}"
+announce.COMPLETE_OTHER						= "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by- one} %c1{Astronaut} %b{%c5{%u_name}} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}"
+announce.COMPLETE_RAR						= "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by- one} %c1{Astronaut} %b{%c5{%u_name}} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}"
+announce.COMPLETE_VIDEO						= "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by- one} %c1{Astronaut} %b{%c5{%u_name}} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}"
+announce.COMPLETE_ZIP						= "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by- one} %c1{Astronaut} %b{%c5{%u_name}} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}""
+announce.COMPLETE_STAT_RACE_AUDIO_CBR       = "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by-} %c5{%u_count} %c1{astronauts -} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}\n%b{%c5{ASTRONAUTS ROCKET STATS:}} %loop3"
+announce.COMPLETE_STAT_RACE_AUDIO_VBR       = "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by-} %c5{%u_count} %c1{astronauts -} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}\n%b{%c5{ASTRONAUTS ROCKET STATS:}} %loop3"
+announce.COMPLETE_STAT_RACE_OTHER           = "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by-} %c5{%u_count} %c1{astronauts -} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}\n%b{%c5{ASTRONAUTS ROCKET STATS:}} %loop3"
+announce.COMPLETE_STAT_RACE_RAR             = "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by-} %c5{%u_count} %c1{astronauts -} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}\n%b{%c5{ASTRONAUTS ROCKET STATS:}} %loop3"
+announce.COMPLETE_STAT_RACE_VIDEO           = "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by-} %c5{%u_count} %c1{astronauts -} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}\n%b{%c5{ASTRONAUTS ROCKET STATS:}} %loop3"
+announce.COMPLETE_STAT_RACE_ZIP             = "%b{%c3{COMPLETE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-by-} %c5{%u_count} %c1{astronauts -} %c5{%t_mbytes} %c1{MB -} %c5{%t_files} %c1{F - }%c5{%t_avgspeed}%c1{/}%c5{%t_duration}\n%b{%c5{ASTRONAUTS ROCKET STATS:}} %loop3\n "
+
+## Postdel announce
+announce.INCOMPLETE				= "%b{iNCOMPLETE%c1{:}} %c2{%b{%section}} %c5{%b{%releasename}} %c1{is now incomplete thanks to} %c5{%b{%u_name}} %c1{/} %c1{.}"
+
+## Third party scripts
+announce.IMDB                                   = "%b{%c9{-iMDB-}} iN %c2{%b{%section}} -> %c5{%reldir} %c1{Genre:} %c5{%imdbgenre} %c1{- Language:} %c5{%imdblanguage} %c1{- Rating:} %c5{%imdbscore} %c1{(}%c5{%imdbvotes}%c1{)} %c1{- Year:} %c5{%imdbyear} %c1{- Link:} %c5{%imdburl} %c5{%b{%imdbnumscreens}}"
+announce.IMDBFIND                               = "%c1{Genre:} %c5{%imdbgenre} %c1{- Language:} %c5{%imdblanguage} %c1{- Rating:} %c5{%imdbscore} %c1{(}%c5{%imdbvotes}%c1{)} %c1{- Year:} %c5{%imdbyear} %c1{- Link:} %c5{%imdburl}"
+announce.IMDBVAR				= "%b{iMDB%c1{:}} %c2{%b{%section}} %c5{%b{%imdbname}} %c1{ ( }%c5{%u{%imdburl}}%c1{ ), a }%c5{%imdbdirector} %c1{movie which scored} %c5{%b{%imdbscore}} %c1{of} %c5{10} %c1{(}%c5{%imdbvotes} %c1{people voted). It premiered in} %c5{%imdbpremiereinfo}%c1{, with} %c5{%b{%imdbnumscreens}} %c1{screens on the opening weekend.}\n%c1{[}%c2{%b{%sitename}}%c1{]} %b{iMDB%c1{:}} %c2{%b{%section}} %c5{%b{%imdbname}} %c1{has the following plot summary: '}%c5{%imdbplot}%c1{'. Rating: [}%c2{%imdbbar}%c1{].}"
+
+#announce.PRE					= "%b{%c9{-IMDB-}} iN %c2{%b{%section}} -> %c5{%reldir}  %c1{has just been released by} %c5{%b{%pregroup}}" # eur0pre
+announce.PRE                                    = "%b{%c7{NEW ADDPRE}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-} %b{%c1{Thanks to}} %c5{%b{%pregroup}} %b{%c3{we now have some nice stuff!}}\n%b{%c7{ADDPRE INFO}} iN %c2{%b{%section}} -> %c5{%b{%reldir}} %c1{-} %c5{%b{%pregroup}} %b{%c1{gave us a fresh new release}} %c1{with (} %c5{%b{%files}} %c1{File(s) / }%c5{%b{%mbytes}} %c1{MB )}\n "
+
+## Miscellaneous announcements
+announce.BADMSGINVITE				= "%b{BAD iNViTE%c1{:}} %c5{%b{%u_ircnick}} %c1{(}%c5{%u_host}%c1{) tried to invite himself with invalid login!}"
+announce.INVITE					= "%b{iNViTE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{invited himself as} %c5{%b{%u_ircnick}}%c1{.}"
+announce.MSGINVITE				= "%b{iNViTE%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{invited himself as} %c5{%b{%u_ircnick}}%c1{.}"
+announce.REQFILLED                              = "%b{FiLLED%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{just filled} %c5{%b{%releasename}} %c1{for} %c5{%b{%u_requester}}%c1{.}"
+announce.REQUEST                                = "%b{REQUEST%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{requests} %c5{%b{%releasename}}%c1{.}"
+
+## Bouncer status
+announce.BNC					= "%b{BNC%c1{:}} %c1{Checking bouncer status, please} %c5{%b{wait}} %c1{...}"
+announce.BNC_PING				= "%c2{%num}%c1{.-} %c5{%b{%desc}} %c1{at} %c5{%ip}%c1{:}%c5{%port} %c1{is} %c5{%b{DOWN}} %c1{(can't ping host).}"
+announce.BNC_ONLINE				= "%c2{%num}%c1{.-} %c5{%b{%desc}} %c1{at} %c5{%ip}%c1{:}%c5{%port} %c1{is} %c5{%b{UP}} %c1{(login:} %c5{%b{%response}})\n %c5{[IRC]} - irc.lunaspace.site:+7000 apollo13\n %c5{[FiSHKEY]} - r0ck3tFu1l18FoRYouAll"
+announce.BNC_OFFLINE				= "%c2{%num}%c1{.-} %c5{%b{%desc}} %c1{at} %c5{%ip}%c1{:}%c5{%port} %c1{is} %c5{%b{DOWN}} %c1{(%error).}"
+
+## IRC Commands
+#announce.LEECH					= "%b{BANDWiDTH%c1{:}} %c1{Current leechers:}"
+#announce.UPLOAD					= "%b{BANDWiDTH%c1{:}} %c1{Current uploaders:}"
+#announce.IDLE					= "%b{BANDWiDTH%c1{:}} %c1{Current idlers:}"
+#announce.BW					= "%b{BANDWiDTH%c1{:}} %c1{(}%c5{%uploads} %c1{uploading at} %c5{%upspeed} %c1{~} %c5{%uppercent}%c1{%) - (}%c5{%downloads} %c1{downloading at} %c5{%dnspeed} %c1{~} %c5{%dnpercent}%c1{%) - (}%c5{%active} %c1{browsing) - (}%c5{%idlers} %c1{idling}%c1{) - [}%c5{%totallogins} %c1{out of} %c5{%maxusers} %c1{users in total at} %c5{%totalspeed} %c1{~} %c5{%totalpercent}%c1{%]}"
+#announce.BWUP					= "%b{BANDWiDTH%c1{:}} %c5{%b{%uploads}} %c1{uploads at} %c5{%upspeed} %c1{(}%c5{%uppercent%}%c1{).}"
+#announce.BWDN					= "%b{BANDWiDTH%c1{:}} %c5{%b{%downloads}} %c1{downloads at} %c5{%dnspeed} %c1{(}%c5{%dnpercent%}%c1{).}"
+#announce.TOTUPDN				= "%b{BANDWiDTH%c1{:}} %c1{%type} %c5{%b{%count}} %c1{at} %c5{%total} %c1{(}%c5{%b{%per}%} %c1{total bandwidth usage).}\n "
+#announce.TOTIDLE				= "%b{BANDWiDTH%c1{:}} %c1{There are currently} %c5{%b{%count}} %c1{users idle!}"
+#announce.USERIDLE				= "%b{BANDWiDTH%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{idling for} %c5{%idletime}"
+#announce.USER					= "%b{BANDWiDTH%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{on} %c5{%b{%filename}} %c1{(}%c5{%fper} %c1{done) at} %c5{%speed} %c1{(}%c5{%b{%per}} %c1{bandwidth usage).}"
+#announce.SPEEDUP				= "%b{BANDWiDTH%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{is uploading} %c5{%b{%f_name}} %c1{at} %c5{%upspeed} %c1{(}%c5{%uppercent}%c1{).}"
+#announce.SPEEDDN				= "%b{BANDWiDTH%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{is downloading} %c5{%b{%f_name}} %c1{at} %c5{%dnspeed} %c1{(}%c5{%dnpercent}%c1{).}"
+#announce.SPEEDID				= "%b{BANDWiDTH%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{has been idle for} %c5{%idletime}%c1{.}"
+#announce.SPEEDERROR				= "%b{BANDWiDTH%c1{:}} %c1{The requested user is not online now.}"
+announce.WELCOME				= "%c1{Welcome to} %c2{%b{%sitename}}%c1{'s sitechan. Type} %c5{%cmdprehelp} %c1{for help.}"
+announce.FREE					= "%b{FREE SPACE%c1{:}} %devices%c1{[}%c5{%b{%free}} %c1{of} %c5{%total} %c1{free in total (used %c5{%perc_used%}%c1{)]}}"
+announce.FREE-DEV				= "%c1{(}%b{%c5{%section}} %c1{has} %c5{%b{%free}} %c1{of} %c5{%total} %c1{free - used} %c5{%perc_used%}%c1{)} %c1{-} "
+#announce.UPTIME					= "%b{UPTiME%c1{:}} %c2{system:} %c5{%b{%users}} %c1{user(s) - online for} %c5{%b{%time}} %c1{- load of} %c5{%b{%load}} %c1{-} %c2{sitebot:} %c5{%eggdrop}%c1{.}"
+
+## IRC Command: !new
+announce.NEW					= "%b{NEW%c1{:}} %c1{-}%c2{%b{%section}}%c1{- Latest releases:}"
+announce.NEW_BODY				= "%c2{%num}%c1{.-} %c5{%reldir} %c1{created by} %c5{%b{%u_name}} %c1{/}  %c1{%age ago} %c1{(}%c5{%b{%mbytes}}%c1{MB in} %c5{%b{%files}} %c1{files).}"
+announce.NEW_NONE				= "%c1{No releases found!}"
+
+## IRC Command: !dupe/!search
+announce.SEARCH					= "%b{SEARCH%c1{:}} %c1{Search results for '}%c5{%b{%pattern}}%c1{':}"
+announce.SEARCH_BODY				= "%c2{%num}%c1{.-} %c5{%relname} %c1{created by} %c5{%b{%u_name}} %c1{/}  %c1{%age ago} %c1{(}%c5{%b{%mbytes}}%c1{MB in} %c5{%b{%files}} %c1{files).}"
+announce.SEARCH_NONE				= "%c1{No matching results found!}"
+
+## IRC Command: !nukes
+announce.NUKES					= "%b{NUKES%c1{:}} %c1{-}%c2{%b{%section}}%c1{- Latest nukes:}"
+announce.NUKES_BODY				= "%c2{%num}%c1{.-} %c5{%reldir} %c1{was nuked factor} %c5{%b{x%multiplier}} %c1{by} %c5{%b{%nuker}} %c1{[reason]} %c5{%b{%reason}} %c1{(Nuke date was} %c5{%date}%c1{).}"
+announce.NUKES_NONE				= "%c1{No nukes found!}"
+
+## IRC Command: !unnukes
+announce.UNNUKES				= "%b{UNNUKES%c1{:}} %c1{-}%c2{%b{%section}}%c1{- Latest unnukes:}"
+announce.UNNUKES_BODY				= "%c2{%num}%c1{.-} %c5{%reldir} %c1{was unnuked factor} %c5{%b{x%multiplier}} %c1{by} %c5{%b{%unnuker}} %c1{[reason]} %c5{%b{%reason}} %c1{(Unnuke date was} %c5{%date}%c1{).}"
+announce.UNNUKES_NONE				= "%c1{No unnukes found!}"
+
+## Other scripts
+announce.TURGEN					= "%c1{%msg}"
+announce.PREDIRCHECK                            = "%c1{%msg}"
+announce.IDLEKICK				= "%b{iDLER KiCKED%c1{:}} %c5{%b{%u_name}} %c1{/}  %c1{has been kicked for being idle more than} %c5{%b{%idletime}}%c1{%interval.}"
+announce.TURDAY					= "%c2{%b{NEW DAY%c1{:}}} %c1{-}%c2{%secname}%c1{- A new day has come!} %c5{%b{%dir}} %c1{has been created along with its symlink.}"
+announce.TURDAYC				= "%c2{%b{NEW DAY%c1{:}}} %c1{-}%c2{%secname}%c1{-} %c5{%b{%dir}} %c1{is now closed in favor of} %c5{%b{%newdir}}%c1{.}"
+announce.TRAFFIC				= "%b{SERVER TRAFFiC%c1{:}} %c1{%b{Today}'s stats:} %c5{%b{%dayup}}%c1{GB in outgoing traffic,} %c5{%b{%daydn}}%c1{GB in incoming traffic}%c1{ - [Day's Total:} %c5{%b{%daytot}}%c1{GB] - This %b{period}'s stats:} %c5{%b{%monthup}}%c1{GB in outgoing traffic,} %c5{%b{%monthdn}}%c1{GB in incoming traffic}%c1{ - [Period's Total:} %c5{%b{%monthtot}}%c1{GB].}"
+announce.RLSTATS				= "%b{RELEASE STATS%c1{:}} %c5{%path/%b{%reldir}} %c1{has a total of} %c5{%b{%numfiles}} %c1{files (}%c5{%b{%totsize}}%c1{MB), which have been downloaded} %c5{%b{%totdn}} %c1{times generating a traffic of} %c5{%b{%rlstraffic}}%c1{MB. Globally, this release has been fully downloaded} %c5{%b{%rlsdn}} %c1{times.}"
+announce.AUTODELETE				= "%b{AUTODELETE%c1{:}} %c5{%b{%dir}} %c1{was just removed, which freed} %c5{%b{%size}}%c1{MB.}"
+
+## Own announce
+announce.TURNEWS                                =  "New Story on http://www.grandis.nu/glftpd at %time by %author: %announce"
+announce.INFO					=  "ALERT - %c5{%msg}"
+announce.MSSREP                                 =  "MSS - %msg"
+announce.VACATION                               =  "%user %c5{goes on vacation. Have fun!}"
+announce.VACATIONOFF                            =  "%user %c5{is back from vacation after} %c4{%duration}%c5{ days. Welcome back!}"
+announce.ANUKEL                                 =  "%c5{%b{AUTONUKE:}} %c2{Losers:} %c5{%users}"
+announce.ANUKEEMPTY                             =  "%c5{%b{AUTONUKE:}} %c2{%b{%release}} %c1{created by} %c5{%b{%u_name}} %c1{is still empty after} %c5{%b{%timenow}}%c1{. Will be nuked if its not completed in} %c5{%b{%nuketime}}."
+announce.ANUKEHEMPTY                            =  "%c5{%b{EMPTY-DiR:}} %c2{%b{%release}} - %c1{empty or incomplete after} %c5{%b{%timenow}}%c1{. Will be nuked if its not completed in} %c5{%b{%nuketime}}."
+announce.ANUKEINC                               =  "%c5{%b{iNCOMPLETE:}} %c2{%b{%release}} %c1{Houston we have a problem! - Marshmallows has not been completed in incoming, within} %c5{%b{%timenow}}%c1{. Will be nuked if its not completed in} %c5{%b{%nuketime}}."
+announce.ANUKEBAN                               =  "%c5{%b{AUTONUKE:}} %c2{%b{%release}} %c1{created by} %c5{%b{%u_name}} %c5{%banword} %c1{not allowed. Will be nuked once its} %c5{%b{%nuketime}} %c1{old.}"
+announce.ANUKEALLOW                             =  "%c5{%b{AUTONUKE:}} %c2{%b{%release}} %c1{created by} %c5{%b{%u_name}} %c1{is not from an allowed group. Will be nuked once its} %c5{%b{%nuketime}} %c1{old.}" 
+announce.STAFF					=  "%c5{%msg}"
+
+## Sample announces
+announce.SAMPLEDIR                              = "[%b{sample}][%section] %b{%path} has the following specs: Video: %b{%video_type_long} %b{%video_width}x%b{%video_height} pixels (aspectratio: %b{%video_aspect}) @%b{%video_fps}fps - Audio: %b{%video_audio_name} (%b{%video_audio_hz}Hz/%b{%video_audio_channels} channels)"
+announce.SAMPLE_AVI                             = "[%b{sample}][%section] %b{%path} has the following specs: Video: %b{%video_codec} %b{%video_width}x%b{%video_height} pixels (aspectratio: %b{%video_aspect}) @%b{%video_framerate} - Audio: %b{%audio_codec} (%b{%audio_samplerate}/%b{%audio_channels} @ %audio_bitrate)"
+announce.SAMPLE_MPEG2                           = "[%b{sample}][%section] %b{%path} has the following specs: Video: %b{%video_codec} %b{%video_width}x%b{%video_height} pixels (aspectratio: %b{%video_aspect}) @%b{%video_framerate} - Audio: %b{%audio_codec} (%b{%audio_samplerate}/%b{%audio_channels} @ %audio_bitrate)"
+announce.SAMPLE_QT                              = "[%b{sample}][%section] %b{%path} has the following specs: Video: %b{%video_codec} %b{%video_width}x%b{%video_height} pixels (aspectratio: %b{%video_aspect}) @%b{%video_framerate} - Audio: %b{%audio_codec} (%b{%audio_samplerate}/%b{%audio_channels} @ %audio_bitrate)"
+announce.SAMPLE_GENERAL                         = "[%b{sample}][%section] %b{%path} has the following specs: Video: %b{%video_codec} %b{%video_width}x%b{%video_height} pixels (aspectratio: %b{%video_aspect}) @%b{%video_framerate} - Audio: %b{%audio_codec} (%b{%audio_samplerate}/%b{%audio_channels} @ %audio_bitrate)"
+announce.SAMPLE_MPEG1                           = "[%b{sample}][%section] %b{%path} has the following specs: Audio: %b{%audio_codec} (%b{%audio_samplerate}/%b{%audio_channels} @ %audio_bitrate) - %b{%audio_genre} from %audio_year"
+announce.BAD_FILE_DUPERELEASE                   = "%b{notice} %b{%u_name} of %g_name uploaded a bad file (dupe - release has previously been completed) in %b{%releasename}."
+announce.COVERS                                 = "%b{%c5{COVERS}} iN %c2{%b{%section}} %c5{%relname} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{/}  %c1{Send us a COVER}"
+announce.NEWCD                                  = "%b{%c5{CD}} iN %c2{%b{%section}} %c5{%relname} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{/}  %c1{Send us a CD}"
+announce.NEWDISC                                = "%b{%c5{DiSC}} iN %c2{%b{%section}} %c5{%relname} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{/}  %c1{Send us a DISC}"
+announce.SAMPLE                                 = "%b{%c5{SAMPLE}} iN %c2{%b{%section}} -> %c5{%relname} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{/}  %c1{Send us a SAMPLE}"
+announce.SUBTITLES                              = "%b{%c5{SUBS}} iN %c2{%b{%section}} %c5{%relname} %c1{-} %c1{Astronaut} %c5{%b{%u_name}} %c1{/}  %c1{Send us SUBS}"
+
+## Extra announce
+announce.WHOIS                                  = "[%b{whois }] %msg"
+announce.ULTEST                                 = "%c4{%b{SPEEDTEST%c1{:}}} %c5{%b{%u_name}} %c1{of}  %c1{tested UL-Speed with a} %c5{%b{%mbytes}}MB %c1{file @} %c5{%b{%mbytesps}}%c1{ MB/s.}"
+announce.DLTEST                                 = "%c4{%b{SPEEDTEST%c1{:}}} %c5{%b{%u_name}} %c1{of}  %c1{tested DL-Speed with a} %c5{%b{%mbytes}}MB %c1{file @} %c5{%b{%mbytesps}}%c1{ MB/s.}"
+
+## TSD
+announce.TSM                    		= "%b{SPACE%c1{:}} %c1{Freeing} %c5{%b{%relsize}}%c1{MB by moving} %c5%b{%release}} %c1{to} %c5{%destname} %c2{archive (%c5{%destfree} MB free)}"
+announce.TSD                    		= "%b{SPACE%c1{:}} %c1{Freeing} %c5{%b{%relsize}}%c1{MB from} %c5{%destname} %c1{section by deleting} %c5{%b{%release}}"
+
+## slv-PreBW
+announce.PREBW                                  = "%b{PREBW%c1{:}} %c2{%b{%section}} %c5{%reldir} %c1{-} %t1s: %c5{%u1}%c1{@}%c5{%b1}%c1{MB/s} %t2s: %c5{%u2}%c1{@}%c5{%b2}%c1{MB/s} %t3s: %c5{%u3}%c1{@}%c5{%b3}%c1{MB/s} %t4s: %c5{%u4}%c1{@}%c5{%b4}%c1{MB/s} %t5s: %c5{%u5}%c1{@}%c5{%b5}%c1{MB/s} %c1{- avg:} %c5{%bwavg}%c1{MB/s} %c1{-} %c5{%traffic}%c1{GB by} %c5{%numusers}%c1{u/}%c5{%numgroups}%c1{g}\n "
+
+## glFTPd version check
+announce.GLVERSION                              = "%c8{%msg}"
+
+## psxc-imdb
+announce.UPDATE					= "%c5{%msg}"
+
+## TVMAZE
+
+announce.TVMAZE                		        = "%b{%c7{TVMAZE}} iN %c2{%b{%section}} -> %c5{%reldir} - %c7{SHOW:} %b{%c5{%tvmaze_show_name}} %c5{-} %c7{GNR:} %b{%c5{(}%c5{%tvmaze_show_genres}}%c5{)} %c5{-} %c7{TYPE:} %b{%c5{%tvmaze_show_type}} \n%b{%c7{TVMAZE}} iN %c2{%b{%section}} -> %c5{%reldir} - %c7{AIR:} %b{%c5{%tvmaze_episode_original_airdate}} %c5{-} %c7{NET:} %b{%c5{%tvmaze_show_network}} %c5{-} %c7{STATUS:} %b{%c5{%tvmaze_show_status}} %c5{-} %c7{RATE:} %b{%c5{%tvmaze_show_rating}}"
+announce.TVMAZE-PRE             		= "%b{%c7{TVMAZE}} iN %c2{%b{%section}} -> %c5{%reldir} - %c7{SHOW:} %b{%c5{%tvmaze_show_name}} %c5{-} %c7{GNR:} %b{%c5{(}%c5{%tvmaze_show_genres}}%c5{)} %c5{-} %c7{TYPE:} %b{%c5{%tvmaze_show_type}} \n%b{%c7{TVMAZE}} iN %c2{%b{%section}} -> %b{%c5{%reldir}} - %c7{AIR:} %b{%c5{%tvmaze_episode_original_airdate}} %c5{-} %c7{NET:} %b{%c5{%tvmaze_show_network}} %c5{-} %c7{STATUS:} %b{%c5{%tvmaze_show_status}} %c5{-} %c7{RATE:} %b{%c5{%tvmaze_show_rating}}"
+announce.TVMAZE-MSGFULL         		= "%c7{- SHOW:} %b{%c5{%tvmaze_show_name}} \n %c7{- TITLE:} %b{%c5{- %tvmaze_episode_title}} \n %c7{- GENRE:} %b{%c5{(}%c5{%tvmaze_show_genres}}%c5{)} \n %c7{- TYPE:} %b{%c5{%tvmaze_show_type}} \n %c7{- AIRDATE:} %b{%c5{%tvmaze_episode_original_airdate}} \n %c7{- NETWORK:} %b{%c5{%tvmaze_show_network}} \n %c7{- STATUS:} %b{%c5{%tvmaze_show_status}} \n %c7{- RATING:} %b{%c5{%tvmaze_show_rating}} \n %c7{- LANGUAGE:} %b{%c5{%tvmaze_show_language}} \n %c7{- URL:} %b{%c5{%tvmaze_show_url}}"
+announce.TVMAZE-MSGSHOW         = "%c7{- SHOW:} %b{%c5{%tvmaze_show_name}} \n %c7{- TITLE:} %b{%c5{- %tvmaze_episode_title}} \n %c7{- GENRE:} %b{%c5{(}%c5{%tvmaze_show_genres}}%c5{)} \n %c7{- TYPE:} %b{%c5{%tvmaze_show_type}} \n %c7{- AIRDATE:} %b{%c5{%tvmaze_episode_original_airdate}} \n %c7{- NETWORK:} %b{%c5{%tvmaze_show_network}} \n %c7{- STATUS:} %b{%c5{%tvmaze_show_status}} \n %c7{- RATING:} %b{%c5{%tvmaze_show_rating}} \n %c7{- LANGUAGE:} %b{%c5{%tvmaze_show_language}} \n %c7{- URL:} %b{%c5{%tvmaze_show_url}} \n %c7{- IMDB:} %b{%c5{%tvmaze_show_imdb}}"announce.KTMFDLW      				= "%bold-\[DualDL\]-%bold %user, we've detected dual downloading. Countdown to re-synchronization in %delay seconds."
+announce.KTMFDLW      				= "%bold-\[DualDL\]-%bold %user, we've detected dual downloading. Countdown to re-synchronization in %delay seconds."
+announce.KTMFDL					= "%bold-\[DualDL\]-%bold %user's downloads are doubling up like booster engines! Preparing for orbital correction."
+announce.KTMFULW      				= "%bold-\[DualUL\]-%bold %user, dual upload detected in %where. Standby for system check in %delay seconds."
+announce.KTMFUL					= "%bold-\[DualUL\]-%bold %user's uploads are reaching across galaxies! Engaging cosmic quarantine protocol."
+announce.KTMFIDW				= "%bold-\[IdleKick\]-%bold %user, prepare for launch! Idling detected. Reassessing in %delay seconds."
+announce.KTMFID					= "%bold-\[IdleKick\]-%bold %user's in space snooze mode. Initiating wake-up call."
+announce.KTMFSLDW				= "%bold-\[SlowDownload\]-%bold %user, your download speed at %speed is slower than asteroid traffic. Checking again in %delay seconds. Brace for warp speed or risk cosmic eviction!"
+announce.KTMFSLD				= "%bold-\[SlowDownload\]-%bold %user's download speed at %speed k/sec. Initiating launch sequence out of the race."
+announce.KTMFSLUW				= "%b{%c2{[SlowUpload]}} %b{%c5{%user}} slow racing at %speed - Recheck iN %delay sec before kick."
+announce.KTMFSLU				= "%b{%c5{[SlowKick]}} kicks %b{%c5{%user}} slow racing at %speed"
+announce.KTMFG					= "%bold-\[GenKick\]-%bold %users vanishes into a warp-speed race!"
