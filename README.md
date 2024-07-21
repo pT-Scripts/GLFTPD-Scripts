@@ -26,6 +26,8 @@ Full list of current released scripts and modules:
 
 **pT-tmdb**
 - Scripts for fetching TMDB info for GLFTPD on complete race.
+- https://github.com/pT-Scripts/GLFTPD-Scripts
 
 **pT-gtop**
 - Scripts for stats of affils/groups on glftpd.
+- https://github.com/pT-Scripts/GLFTPD-Scripts
