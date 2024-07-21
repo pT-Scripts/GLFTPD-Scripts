@@ -38,7 +38,7 @@ Full list of current released scripts and modules:
 - https://github.com/pT-Scripts/GLFTPD-Scripts
 
 **GLFTPD Space Theme v1.0 (a glftpd theme file**
-- Scripts for stats of affils/groups on glftpd.
+- Custom Space theme for glftpd.
 - https://github.com/pT-Scripts/GLFTPD-Scripts
 
 More will be added soon
