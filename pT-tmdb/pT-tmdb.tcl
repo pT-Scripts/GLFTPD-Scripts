@@ -34,7 +34,7 @@ bind pub - !tmdbinfo pub:tmdb
 proc pub:tmdb {nick output binary chan text} {
     global botdir
     set botdir "/glftpd/bin"  ;# Adjust thrre bot's directory if needed
-    set binary "$botdir/pT-TMDB.sh"
+    set binary "$botdir/pT-tmdb.sh"
     
     if {[llength $text] != 1} {
         putquick "PRIVMSG $chan :Usage: !tmdb releasename Example -> !tmdb Spirit.Rangers.S03E19.1080p.WEB.h264-DOLORES"
