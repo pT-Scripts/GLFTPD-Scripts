@@ -14,7 +14,7 @@
 #   1. Place this script in your bot's script directory.         #
 #   2. Ensure your bot's TCL interpreter can execute the script.#
 #   3. Obtain a TMDB API key from https://www.themoviedb.org    #
-#   4. Update TMDB.sh with your API key if necessary.            #
+#   4. Update pT-tmdb.sh with your API key if necessary.            #
 #   5. Adjust 'botdir' variable to match your bot's script dir.  #
 #                                                               #
 # Adding More Features:                                         #
