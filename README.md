@@ -21,4 +21,11 @@ Rewrites: Updated or reimagined versions of existing scripts or functionalities.
 
 Full list of current released scripts and modules:
 
-**pT-PreBot** - pT-PreBot is an IRC bot designed for managing pre-release data and integrating with MySQL databases, specifically tailored for eggdrop bots. https://github.com/pT-Scripts/pT-PreBot
+**pT-PreBot**  
+- pT-PreBot is an IRC bot designed for managing pre-release data and integrating with MySQL databases, specifically tailored for eggdrop bots. https://github.com/pT-Scripts/pT-PreBot
+
+**pT-tmdb**
+- Scripts for fetching TMDB info for GLFTPD on complete race.
+
+**pT-gtop**
+- Scripts for stats of affils/groups on glftpd.
