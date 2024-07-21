@@ -29,14 +29,14 @@ Full list of current released scripts and modules:
 **pT-PreBot**  
 - pT-PreBot is an IRC bot designed for managing pre-release data and integrating with MySQL databases, specifically tailored for eggdrop bots. https://github.com/pT-Scripts/pT-PreBot
 
-**pT-tmdb**
+**pT-tmdb for bot (!tmdb)**
 - Scripts for fetching TMDB info for GLFTPD on complete race.
 - https://github.com/pT-Scripts/GLFTPD-Scripts
 
-**pT-gtop**
+**pT-gtop for bot (!gtop)**
 - Scripts for stats of affils/groups on glftpd.
 - https://github.com/pT-Scripts/GLFTPD-Scripts
 
-**GLFTPD Space Theme v1.0**
+**GLFTPD Space Theme v1.0 (a glftpd theme file**
 - Scripts for stats of affils/groups on glftpd.
 - https://github.com/pT-Scripts/GLFTPD-Scripts
