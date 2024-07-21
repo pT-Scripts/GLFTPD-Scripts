@@ -1,31 +1,31 @@
 #################################################################
-#                                                               #
-# TMDB Info by Petabyte                                          #
-#                                                               #
-# Description:                                                   #
-#   Retrieves information from TMDB based on a release name.     #
-#   Requires a TMDB API key for fetching data.                   #
-#                                                               #
-# Usage:                                                        #
-#   - Command: !tmdb releasename                                 #
-#     Example: !tmdb Spirit.Rangers.S03E19.1080p.WEB.h264-DOLORES#
-#                                                               #
-# Installation:                                                 #
-#   1. Place this script in your bot's script directory.         #
-#   2. Ensure your bot's TCL interpreter can execute the script.#
-#   3. Obtain a TMDB API key from https://www.themoviedb.org    #
-#   4. Update pT-tmdb.sh with your API key if necessary.            #
-#   5. Adjust 'botdir' variable to match your bot's script dir.  #
-#                                                               #
-# Adding More Features:                                         #
-#   - Modify this script to handle additional commands or        #
-#     functionalities related to TMDB queries.                   #
-#   - Extend TMDB.sh or create new scripts for different queries.#
-#                                                               #
-# Changelog:                                                    #
-#   Version 1.5 (YYYY-MM-DD):                                    #
-#   - Directly announce full output from TMDB.sh.                #
-#                                                               #
+#                                                               
+# TMDB Info by Petabyte                                          
+#                                                              
+# Description:                                                   
+#   Retrieves information from TMDB based on a release name.     
+#   Requires a TMDB API key for fetching data.                  
+#                                                              
+# Usage:                                                        
+#   - Command: !tmdb releasename                                 
+#     Example: !tmdb Spirit.Rangers.S03E19.1080p.WEB.h264-DOLORES
+#                                                              
+# Installation:                                                 
+#   1. Place this script in your bot's script directory.         
+#   2. Ensure your bot's TCL interpreter can execute the script.
+#   3. Obtain a TMDB API key from https://www.themoviedb.org    
+#   4. Update pT-tmdb.sh with your API key if necessary.         
+#   5. Adjust 'botdir' variable to match your bot's script dir.  
+#                                                               
+# Adding More Features:                                         
+#   - Modify this script to handle additional commands or        
+#     functionalities related to TMDB queries.                   
+#   - Extend TMDB.sh or create new scripts for different queries.
+#                                                               
+# Changelog:                                                    
+#   Version 1.0                                                 
+#   - Released.                                                 
+#                                                               
 #################################################################
 
 bind pub - !tmdb pub:tmdb
