@@ -43,6 +43,9 @@ Scripts for fetching TMDB info for GLFTPD on complete race.
 ### [pT-gtop for bot (!gtop)](https://github.com/pT-Scripts/GLFTPD-Scripts)
 Scripts for displaying stats of affils/groups on GLFTPD.
 
+### [pT-mediainfo for bot (!mediainfo)](https://github.com/pT-Scripts/GLFTPD-Scripts)
+Scripts for running mediainfo on sample .mkv and .mp4 files and upload to ftp.
+
 ### [GLFTPD Space Theme v1.0](https://github.com/pT-Scripts/GLFTPD-Scripts)
 A custom Space theme for GLFTPD.
 
