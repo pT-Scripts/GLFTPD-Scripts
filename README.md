@@ -1,58 +1,54 @@
-GLFTPD Scripts by Petabyte
+# GLFTPD Scripts by Petabyte
 
-Welcome to my GLFTPD Scripts repository!
+Welcome to the GLFTPD Scripts repository! This collection includes various scripts, addons, modules, and rewrites designed to enhance and extend the functionality of GLFTPD, a powerful FTP server software for Unix-like operating systems. Whether you're looking for bash scripts, Python scripts, TCL addons, or complete module rewrites, you'll find a range of utilities here to optimize and personalize your GLFTPD experience.
 
-This repository is dedicated to a collection of GLFTPD-related scripts, addons, modules, and rewrites that I’ve developed.
+## Installation Instructions
 
-GLFTPD is a powerful FTP server software designed for Unix-like operating systems. This repository contains various scripts and tools to extend and enhance the functionality of GLFTPD. Whether you’re looking for bash scripts, Python scripts, TCL addons, or complete module rewrites, you’ll find a range of utilities here to optimize and personalize your GLFTPD experience.
+### Bash Scripts (.sh files)
+1. Place the `.sh` file in `/glftpd/bin`.
+2. Run `chmod +x <script_name>.sh` to make the file executable.
 
-Install of glftpd scripts
+### TCL Scripts (.tcl files)
+1. Place the `.tcl` file in `eggdrop/scripts`.
+2. Load the `.tcl` script in your eggdrop configuration and rehash the bot.
 
-Put .sh file in /glftpd/bin and chmod +x
+### Usage Tip
+The main logic resides in the `.sh` file. Use the `.tcl` script to execute the `.sh` script and announce to IRC. If the script works with `./<script_name>.sh` in the terminal, it will work on IRC/eggdrop.
 
-Put .tcl file in eggdrop/scripts
+## Contents
 
-Load .tcl script in eggdrop config and rehash obot
+### Bash Scripts
+Automated tasks, system management, and utility scripts for GLFTPD.
 
+### Python Scripts
+Versatile scripts for various tasks and enhancements.
 
-- I make the engine/main script in bash .sh file and simple use the .tcl to execute the .sh script and announce to irc.
+### TCL Addons
+Extensions and modifications to enhance GLFTPD’s capabilities.
 
-  (main logic is always in the .sh file)
+### Modules
+Custom modules that add new features or improve existing ones.
 
-  
-Good tip is if it works with ./pT-script.sh in terminal it works on IRC/eggdrop
+### Rewrites
+Updated or reimagined versions of existing scripts or functionalities.
 
-- 
-Contents
+## Current Released Scripts and Modules
 
-Bash Scripts: Automated tasks, system management, and utility scripts for GLFTPD.
+### [pT-PreBot](https://github.com/pT-Scripts/pT-PreBot)
+An IRC bot designed for managing pre-release data and integrating with MySQL databases, specifically tailored for eggdrop bots.
 
-Python Scripts: Modern, versatile scripts to perform various tasks and enhancements.
+### [pT-tmdb for bot (!tmdb)](https://github.com/pT-Scripts/GLFTPD-Scripts)
+Scripts for fetching TMDB info for GLFTPD on complete race.
 
-TCL Addons: Extensions and modifications to enhance the capabilities of GLFTPD.
+### [pT-gtop for bot (!gtop)](https://github.com/pT-Scripts/GLFTPD-Scripts)
+Scripts for displaying stats of affils/groups on GLFTPD.
 
-Modules: Custom modules that add new features or improve existing ones.
+### [GLFTPD Space Theme v1.0](https://github.com/pT-Scripts/GLFTPD-Scripts)
+A custom Space theme for GLFTPD.
 
-Rewrites: Updated or reimagined versions of existing scripts or functionalities.
+More scripts and modules will be added soon.
 
+## Get Help
+Join us on Linknet IRC - #pT-scripts for support and assistance.
 
-Full list of current released scripts and modules:
-
-**pT-PreBot**  
-- pT-PreBot is an IRC bot designed for managing pre-release data and integrating with MySQL databases, specifically tailored for eggdrop bots. https://github.com/pT-Scripts/pT-PreBot
-
-**pT-tmdb for bot (!tmdb)**
-- Scripts for fetching TMDB info for GLFTPD on complete race.
-- https://github.com/pT-Scripts/GLFTPD-Scripts
-
-**pT-gtop for bot (!gtop)**
-- Scripts for stats of affils/groups on glftpd.
-- https://github.com/pT-Scripts/GLFTPD-Scripts
-
-**GLFTPD Space Theme v1.0 (a glftpd theme file)**
-- Custom Space theme for glftpd.
-- https://github.com/pT-Scripts/GLFTPD-Scripts
-
-More will be added soon
-
-Get help @ Linknet iRC - #pT-scripts
+For further details, visit our GitHub repository: [GLFTPD Scripts](https://github.com/pT-Scripts/GLFTPD-Scripts).
