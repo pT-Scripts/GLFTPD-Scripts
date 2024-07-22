@@ -16,14 +16,19 @@ extract_info_from_release() {
         year="${BASH_REMATCH[2]}"
         type="movie"
     else
-        echo "Error: Could not extract show name, season, and episode or movie name and year from release name."
-        exit 1
+        # Try extracting show name by taking the first two words if the initial extraction fails
+        show_name=$(echo "$release_name" | sed -r 's/^([^.]+\.[^.]+).*/\1/' | tr '.' ' ')
+        if [[ $show_name =~ ^.+\ .+ ]]; then
+            type="guess"
+        else
+            return 1
+        fi
     fi
 }
 
 # Function to fetch TMDB information based on show name or movie name
 fetch_tmdb_info() {
-    api_key="putyourtmdbapikeyhere"
+    api_key="yourtmdbapi"
     local show_name="$1"
     local type="$2"
 
@@ -43,8 +48,8 @@ fetch_tmdb_info() {
     # Check if there are results
     total_results=$(echo "$response" | jq -r '.total_results')
     if [ "$total_results" -eq 0 ]; then
-        echo "Error: No results found for '$show_name' in TMDb."
-        exit 1
+        # Suppress error message
+        return 1
     fi
 
     # Extract and print detailed information about the first result
@@ -100,7 +105,8 @@ fetch_tmdb_info() {
     full_language_name=$(convert_language_code_to_name "$original_language")
 
     # Format the release_date to be more human-readable
-    formatted_release_date=$(date -d "$release_date" +"%d %B %Y")
+    formatted_release_date=$(date -d "$release_date" +"%d %B %Y" 2>/dev/null)
+    formatted_release_date="${formatted_release_date:-$release_date}"  # Fall back to original if conversion fails
 
     # Construct TMDB URL
     tmdb_url="https://www.themoviedb.org/$type/$tmdb_id"
@@ -119,6 +125,12 @@ fi
 
 # Extract show name, season, and episode or movie name and year from release name
 extract_info_from_release "$1"
+if [ $? -ne 0 ]; then
+    exit 0  # Suppress error message and exit silently
+fi
 
 # Fetch TMDB information based on show name or movie name
 fetch_tmdb_info "$show_name" "$type"
+if [ $? -ne 0 ]; then
+    exit 0  # Suppress error message and exit silently
+fi
