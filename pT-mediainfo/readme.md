@@ -14,6 +14,12 @@ The `pT-mediainfo` script automates the extraction and processing of media file 
 
 ## Configuration
 
+install mediainfo
+
+sudo apt update
+sudo apt install mediainfo
+
+
 ### FTP Configuration
 
 Set the following variables for FTP server details:
