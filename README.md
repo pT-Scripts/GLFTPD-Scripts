@@ -9,7 +9,9 @@ GLFTPD is a powerful FTP server software designed for Unix-like operating system
 Install of glftpd scripts
 
 Put .sh file in /glftpd/bin and chmod +x
+
 Put .tcl file in eggdrop/scripts
+
 Load .tcl script in eggdrop config and rehash obot
 
 
