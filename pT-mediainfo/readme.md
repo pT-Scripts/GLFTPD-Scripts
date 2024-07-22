@@ -17,6 +17,7 @@ The `pT-mediainfo` script automates the extraction and processing of media file 
 install mediainfo
 
 sudo apt update
+
 sudo apt install mediainfo
 
 
