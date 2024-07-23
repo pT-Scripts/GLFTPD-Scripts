@@ -52,6 +52,6 @@ A custom Space theme for GLFTPD.
 More scripts and modules will be added soon.
 
 ## Get Help
-Join us on Linknet IRC - #pT-scripts for support and assistance.
+Join us on EFNET IRC - #pT-scripts for support and assistance.
 
 For further details, visit our GitHub repository: [GLFTPD Scripts](https://github.com/pT-Scripts/GLFTPD-Scripts).
